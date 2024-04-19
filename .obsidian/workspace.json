@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "6834f0d7edded3d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "25377a1cfd89b940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9fa067ff3a64b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/CIA Triad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a94ecf854458c0d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Introduction to Security Frameworks and Controls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cf2bbf3afb3c4bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/CIA Triad.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "adecfa13992ce9fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54f13ff515227395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Cybersecurity Tools/Playbooks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2fc88025bb2ab6ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbd4e041d6db4d57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f16c9c2646c2d883",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c43ef86eac2f926",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nist",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "585acb7c4ae781f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 524.5
+  },
+  "right": {
+    "id": "2b8c29b14554367d",
+    "type": "split",
+    "children": [
+      {
+        "id": "153e7ae667f029e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61e899b153189eee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f75de2091c3be0aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8d256fd6e24a0f5d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e312e26bb4300e31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md"
+              }
+            }
+          },
+          {
+            "id": "c476952982e8a743",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "aea31177c2270c9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Personally Identifiable Information.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "adecfa13992ce9fe",
+  "lastOpenFiles": [
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/The Eight CISSP Domains.md",
+    "Cybersecurity/Cybersecurity Tools/SIEM/Chronicle.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks",
+    "CyBOK/Introductory Concepts/Introduction To CyBOK.pdf",
+    "Cybersecurity/Cybersecurity Tools/Playbooks.md",
+    "Career/Google Professional Statement Outline.md",
+    "Cybersecurity/Cybersecurity Tools/General Tools for Protecting Business Information.md",
+    "Career",
+    "Cybersecurity/Cybersecurity Tools/Network protocol analyzers.md",
+    "Cybersecurity/Cybersecurity Tools/SIEM/SIEM tools.md",
+    "Cybersecurity/Cybersecurity Tools/SIEM/Splunk.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Common Cybersecurity Tools.md",
+    "Cybersecurity/Cybersecurity Tools/SIEM",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Hacker Types.md",
+    "Cybersecurity/Cybersecurity Tools",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/CIA Triad.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Introduction to Security Frameworks and Controls.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Controls, Frameworks, and Compliance.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Ethics in Cybersecurity.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Common Cybersecurity Terminologies.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Personally Identifiable Information.md",
+    "CyBOK/Infrastructure Security",
+    "CyBOK/Software and Platform Security",
+    "CyBOK/Systems Security",
+    "CyBOK/Attacks and Defenses",
+    "CyBOK/Human, Organizational, and Regulatory Aspects/Privacy and Online Rights.pdf",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Types of Cybersecurity Attacks.md",
+    "0 Roadmap/Cybersecurity Kanban.md",
+    "0 Roadmap/Cybersecurity Certification Roadmap.md",
+    "0 Roadmap/CompTIA Security+.md",
+    "Cybersecurity Notes/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Untitled.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Threat Actor Types.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Core Skills for Cybersecurity Professionals.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/External and Internal Threats.md",
+    "Untitled.canvas"
+  ]
+}
