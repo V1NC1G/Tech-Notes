@@ -25,31 +25,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Introduction to Security Frameworks and Controls.md",
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/The Eight CISSP Domains.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9cf2bbf3afb3c4bb",
+            "id": "73843d41b07251bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/CIA Triad.md",
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/The Eight CISSP Domains.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "adecfa13992ce9fe",
+            "id": "8553fa31c9c90e09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Threats, Risk, and Vulnerabilites.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2362939d1dec226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/NIST RMF.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bbfaf7898c15c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Manage Common Threats, Risks, and Vulnerabilities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1379b9de72cd057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/HITRUST.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb38ba3b61879fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Key Impacts of Threats, Risks, and Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nist",
+                "query": "mitigation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 524.5
+    "width": 310.5
   },
   "right": {
     "id": "2b8c29b14554367d",
@@ -135,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Manage Common Threats, Risks, and Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Manage Common Threats, Risks, and Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md"
+                "file": "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Manage Common Threats, Risks, and Vulnerabilities.md"
               }
             }
           },
@@ -223,9 +271,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "adecfa13992ce9fe",
+  "active": "2bbfaf7898c15c78",
   "lastOpenFiles": [
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/NIST RMF.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Threats, Risk, and Vulnerabilites.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Manage Common Threats, Risks, and Vulnerabilities.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/HITRUST.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Key Impacts of Threats, Risks, and Vulnerabilities.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
+    "0 Roadmap/Cybersecurity Kanban.md",
+    "0 Roadmap/Cybersecurity Certification Roadmap.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks/Layers of the Web.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Malwares.md",
     "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/The Eight CISSP Domains.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Shared Responsibility.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Introduction to Security Frameworks and Controls.md",
+    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Common Cybersecurity Terminologies.md",
     "Cybersecurity/Cybersecurity Tools/SIEM/Chronicle.md",
     "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks",
     "CyBOK/Introductory Concepts/Introduction To CyBOK.pdf",
@@ -241,25 +302,13 @@
     "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Hacker Types.md",
     "Cybersecurity/Cybersecurity Tools",
     "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/CIA Triad.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Introduction to Security Frameworks and Controls.md",
     "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Controls, Frameworks, and Compliance.md",
     "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Ethics in Cybersecurity.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/NIST CSF.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Common Cybersecurity Terminologies.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Personally Identifiable Information.md",
     "CyBOK/Infrastructure Security",
     "CyBOK/Software and Platform Security",
     "CyBOK/Systems Security",
     "CyBOK/Attacks and Defenses",
     "CyBOK/Human, Organizational, and Regulatory Aspects/Privacy and Online Rights.pdf",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Types of Cybersecurity Attacks.md",
-    "0 Roadmap/Cybersecurity Kanban.md",
-    "0 Roadmap/Cybersecurity Certification Roadmap.md",
-    "0 Roadmap/CompTIA Security+.md",
-    "Cybersecurity Notes/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Untitled.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Threat Actor Types.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Core Skills for Cybersecurity Professionals.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/External and Internal Threats.md",
     "Untitled.canvas"
   ]
 }

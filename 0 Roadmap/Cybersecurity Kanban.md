@@ -8,8 +8,8 @@ kanban-plugin: basic
 
 - [ ] [CERT] CompTIA Security+
 - [ ] [CERT] CCNA
+- [ ] [CC] Blue Team Level 1
 - [ ] [COURSE] TryHackMe Pre Security Course
-- [ ] [C+C] Blue Team Level 1
 - [ ] [COURSE] TryHackMe Introduction to Cybersecurity
 - [ ] [COURSE] TryHackMe SOC Level 1
 - [ ] [COURSE] TryHackMe Security Engineer
