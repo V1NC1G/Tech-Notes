@@ -8,7 +8,9 @@
   "promptDelete": false,
   "vimMode": true,
   "trashOption": "none",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "showInlineTitle": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Files",
+  "newFileFolderPath": "Notes"
 }

@@ -4,12 +4,23 @@
     "flashcardGoodText": "Good",
     "flashcardHardText": "Hard",
     "flashcardTags": [
-      "#flashcards"
+      "#cybersecurity",
+      "#malware",
+      "#tools",
+      "#threat",
+      "#attackers",
+      "#securitydomains",
+      "#attacks",
+      "#risk",
+      "#programming",
+      "#control",
+      "#regulation",
+      "#ethics"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
     "burySiblingCards": false,
-    "showContextInCards": true,
+    "showContextInCards": false,
     "flashcardHeightPercentage": 80,
     "flashcardWidthPercentage": 40,
     "randomizeCardOrder": null,
@@ -28,7 +39,7 @@
       "#review"
     ],
     "noteFoldersToIgnore": [
-      "Image Bank"
+      "Files"
     ],
     "openRandomNote": false,
     "autoNextNote": false,
@@ -42,7 +53,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-04-17",
+  "buryDate": "2024-04-26",
   "buryList": [],
   "historyDeck": null
 }
