@@ -16,9 +16,9 @@ Flashcard Tags: #cybersecurity #vulnerability
 What is NTLM?
 ?
 Windows New Technology Local Area Network Manager
-<!--SR:!2024-04-27,2,248-->
+<!--SR:!2024-05-06,9,268-->
 
 Affects NTLM that allows a LAN-based attacker to perform authentication requests.
 ??
 PetitPotam
-<!--SR:!2024-04-29,3,248!2024-04-27,1,210-->
+<!--SR:!2024-04-29,3,248!2024-04-28,1,190-->

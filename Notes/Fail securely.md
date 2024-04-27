@@ -19,3 +19,4 @@ Flashcard Tags: #cybersecurity
 A security principle where if a security control fails or stops, it should do so by defaulting to its most secure option.
 ?
 Fail securely
+<!--SR:!2024-05-01,4,270-->

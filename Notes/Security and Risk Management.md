@@ -33,4 +33,4 @@ What does security and risk management define?
 - Business continuity
 - Legal regulations
 - Professional and organizational ethics
-<!--SR:!2024-04-27,1,210-->
+<!--SR:!2024-04-28,1,190-->

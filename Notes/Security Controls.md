@@ -3,11 +3,28 @@ Tags: [[Cybersecurity]]
 
 Safeguards designed to reduce specific security risks and is used with [[Security Frameworks|security frameworks]] to establish a strong security posture.
 
-## Three common types of security controls
+## Three common uses of security controls
 
 1. [[Encryption]]
 2. [[Authentication]]
 3. [[Authorization]]
+
+## Control categories
+
+- [[Administrative Control]]
+- [[Technical Controls]]
+- [[Physical Controls]]
+
+## Control Types
+
+- Preventative
+	- Designed to prevent an incident from occurring in the first place.
+- Corrective
+	- Used to restore an asset after an incident.
+- Detective
+	- Implemented to determine if an incident has occurred or is in progress.
+- Deterrent
+	- Designed to discourage attacks.
 
 ---
 # References
@@ -23,3 +40,18 @@ Safeguards designed to reduce specific security risks and is used with security 
 ??
 Security Controls
 <!--SR:!2024-04-29,4,270!2024-04-28,3,250-->
+
+Security control types.
+?
+- Preventative
+- Corrective
+- Detective
+- Deterrent
+<!--SR:!2024-04-28,1,232-->
+
+Security control categories
+?
+- Administrative
+- Technical
+- Physical
+<!--SR:!2024-05-01,4,270-->

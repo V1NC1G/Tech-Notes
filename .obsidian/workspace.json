@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Fail securely.md",
+                "file": "Notes/Internal Audits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "964acd19afa82089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Security Audit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b268cf32b77724f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Scratch Note.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -126,11 +150,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "2b8c29b14554367d",
@@ -146,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Fail securely.md",
+                "file": "Templates/Scratch Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Fail securely.md",
+                "file": "Templates/Scratch Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Fail securely.md"
+                "file": "Templates/Scratch Note.md"
               }
             }
           },
@@ -234,34 +260,35 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bcc3acc8f05d1177",
+  "active": "b268cf32b77724f6",
   "lastOpenFiles": [
-    "Notes/Establish secure defaults.md",
-    "Notes/Fail securely.md",
-    "Notes/OWASP.md",
-    "Notes/Separation of duties.md",
-    "Notes/Spyware.md",
-    "Notes/Defense in depth.md",
-    "Notes/Principle of least privilege.md",
-    "Notes/Attack Vectors.md",
-    "Notes/Attack Surface.md",
-    "Notes/NIST CSF.md",
-    "Notes/Networking.md",
-    "Notes/Cybersecurity.md",
-    "Templates/Notes Template.md",
-    "Templates/Programming Template.md",
-    "Notes/CIA Triad.md",
+    "Notes/SIEM.md",
     "Notes/NIST RMF.md",
-    "Notes/Cybersecurity Counterattacks.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Security Analyst.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Ethics in Cybersecurity.md",
-    "Notes/Cybersecurity Ethics.md",
-    "Notes/Ethical Principles in Security.md",
-    "Notes/ISO.md",
-    "Cybersecurity/Google Cybersecurity Professional Certificate/Foundations of Cybersecurity/Controls, Frameworks, and Compliance.md",
-    "Notes/ISO-IEC 27001.md",
-    "Notes/HITRUST.md",
-    "Notes/HIPAA.md",
+    "Notes/Risk Management.md",
+    "Notes/NIST CSF.md",
+    "Templates/Scratch Note.md",
+    "Notes/Intrusion Detection System.md",
+    "Notes/Security Controls.md",
+    "Notes/Security Audit.md",
+    "Portfolio/Google Cybersecurity Professional Certificate - Conduct a security audit.md",
+    "Portfolio/Google Cybersecurity Professional Certificate - Conduct a security audit 1.md",
+    "Notes/OWASP.md",
+    "Notes/Security Audit Checklist.md",
+    "Portfolio",
+    "Career/Checklist before applying for Cybersecurity jobs.md",
+    "0 Roadmap/Cybersecurity Kanban.md",
+    "0 Roadmap/Cybersecurity Certification Roadmap.md",
+    "Career/Google Professional Statement Outline.md",
+    "Notes/Risk Assessment.md",
+    "Notes/Internal Audits.md",
+    "Notes/Physical Controls.md",
+    "Notes/Physical Attack.md",
+    "Notes/Technical Controls.md",
+    "Notes/Administrative Control.md",
+    "Notes/Controls Assessment.md",
+    "Notes/Internal Risk.md",
+    "Notes/Security Posture.md",
+    "Notes/Compliance.md",
     "ISO",
     "Notes",
     "Files",
@@ -271,7 +298,6 @@
     "Career",
     "Cybersecurity/Cybersecurity Tools/SIEM",
     "Cybersecurity/Cybersecurity Tools",
-    "CyBOK/Infrastructure Security",
     "Untitled.canvas"
   ]
 }

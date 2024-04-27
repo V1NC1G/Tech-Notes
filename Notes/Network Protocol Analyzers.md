@@ -18,7 +18,7 @@ Flashcard Tags: #cybersecurity #tools
 Tool designed to capture and analyze data traffic within a network.
 ??
 Network Protocol Analyzers
-<!--SR:!2024-04-28,2,230!2024-04-27,2,248-->
+<!--SR:!2024-04-28,2,230!2024-04-28,1,228-->
 
 Another term for network protocol analyzers.
 ?

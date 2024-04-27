@@ -53,4 +53,4 @@ What are the social engineering principles?
 - Familiarity
 - Trust
 - Urgency
-<!--SR:!2024-04-27,1,212-->
+<!--SR:!2024-04-28,1,192-->

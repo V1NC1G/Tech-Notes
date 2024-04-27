@@ -18,3 +18,4 @@ Flashcard Tags: #cybersecurity
 The principle of making sure that users have the least amount of access required to perform their everyday task.
 ??
 Principle of least privilege
+<!--SR:!2024-05-01,4,270!2024-04-30,3,250-->

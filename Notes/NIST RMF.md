@@ -75,12 +75,12 @@ Prepare
 Process in the NIST RMF that is used to develop risk management processes and tasks.
 ?
 Categorize
-<!--SR:!2024-04-27,1,210-->
+<!--SR:!2024-04-28,1,190-->
 
 Process in the NIST RMF where we choose, customize, and capture documentation of security controls that protect an organization.
 ?
 Select
-<!--SR:!2024-04-27,2,246-->
+<!--SR:!2024-05-03,6,266-->
 
 Process in the NIST RMF where security and privacy plans are implemented for the organization.
 ?

@@ -3,7 +3,9 @@ Tags: [[Cybersecurity]]
 
 Organization's ability to manage its defense of critical assets and data and react to change.
 
->[!important] Stronger security posture means a lower risk for the organization
+>[!important] 
+>Stronger security posture means a lower risk for the organization
+
 ---
 # References
 
@@ -17,7 +19,7 @@ Flashcard Tags: #cybersecurity
 Organization's ability to manage its defense of critical assets and data and react to change.
 ??
 Security Posture
-<!--SR:!2024-04-29,3,250!2024-04-27,1,210-->
+<!--SR:!2024-04-29,3,250!2024-04-29,2,210-->
 
 What does a stronger security posture entail?
 ?
