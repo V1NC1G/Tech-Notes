@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity
 A US federal law to protect patient's health information.
 ??
 HIPAA
-<!--SR:!2024-04-29,4,270!2024-04-28,3,252-->
+<!--SR:!2024-05-15,16,290!2024-05-07,8,252-->

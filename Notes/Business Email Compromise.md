@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #attacks
 A type of phishing that sends an email that looks like it's from a known source to make requests for information for financial gain.
 ??
 Business Email Compromise
-<!--SR:!2024-04-29,3,250!2024-04-28,3,250-->
+<!--SR:!2024-05-08,9,270!2024-05-12,13,270-->

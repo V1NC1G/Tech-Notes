@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #attacks
 An email attack targeted at specific users or group of users.
 ??
 Spear Phishing
-<!--SR:!2024-04-29,4,272!2024-04-29,4,270-->
+<!--SR:!2024-05-15,16,292!2024-05-14,15,290-->

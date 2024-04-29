@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 Reviewing an organization's existing assets and evaluating potential risks to ensure internal controls are effective.
 ?
 Controls Assessment
-<!--SR:!2024-04-28,1,230-->
+<!--SR:!2024-05-01,2,210-->

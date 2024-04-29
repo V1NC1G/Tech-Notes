@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #attackers
 Hackers who do not follow the law and aims to sell confidential data for financial gain.
 ??
 unauthorized hackers
-<!--SR:!2024-04-29,4,270!2024-04-29,4,272-->
+<!--SR:!2024-05-15,16,290!2024-05-15,16,292-->

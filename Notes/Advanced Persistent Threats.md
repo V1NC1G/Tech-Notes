@@ -22,4 +22,4 @@ Flashcard Tags: #cybersecurity #attackers #threat
 Threat actor that have significant expertise in accessing an organization's network without authorization and does research on their targets in advance.
 ??
 advanced persistent threats
-<!--SR:!2024-04-28,3,250!2024-04-28,2,230-->
+<!--SR:!2024-05-11,12,270!2024-05-04,6,230-->

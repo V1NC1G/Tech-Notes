@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #risk
 Anything outside the organization that has the potential to harm organizational assets.
 ??
 External Risk
-<!--SR:!2024-04-29,4,270!2024-04-29,4,270-->
+<!--SR:!2024-05-14,15,290!2024-05-15,16,290-->

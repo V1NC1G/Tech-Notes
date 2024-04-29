@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 Any person who presents a security risk.
 ??
 Threat Actor
-<!--SR:!2024-04-28,3,252!2024-04-29,4,270-->
+<!--SR:!2024-05-05,7,252!2024-05-12,13,290-->

@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #risk
 Risk factor that concerns outsourcing work to third-party vendors.
 ??
 Multiparty Risk
-<!--SR:!2024-04-29,4,270!2024-04-28,2,230-->
+<!--SR:!2024-05-14,15,290!2024-05-06,7,250-->

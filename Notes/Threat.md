@@ -20,4 +20,4 @@ Flashcard Tags: #cybersecurity #threat
 Any circumstance or event that can negatively impact assets.
 ??
 Threats
-<!--SR:!2024-04-29,3,250!2024-04-28,2,228-->
+<!--SR:!2024-05-09,10,270!2024-04-30,1,208-->

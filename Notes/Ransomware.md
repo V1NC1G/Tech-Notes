@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #malware
 An attack that encrypts an organization's data and demand payment to restore access.
 ??
 Ransomware
-<!--SR:!2024-04-29,4,270!2024-04-29,4,270-->
+<!--SR:!2024-05-15,16,290!2024-05-16,17,290-->

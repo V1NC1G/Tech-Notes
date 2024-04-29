@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #attacks
 Attack that uses AI and ML to conduct more efficient attacks.
 ??
 Adversarial Artificial Intelligence
-<!--SR:!2024-04-29,4,270!2024-04-29,3,250-->
+<!--SR:!2024-05-15,16,290!2024-05-12,13,270-->

@@ -5,17 +5,8 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#cybersecurity",
-      "#malware",
-      "#tools",
-      "#threat",
-      "#attackers",
-      "#securitydomains",
-      "#attacks",
-      "#risk",
-      "#programming",
-      "#control",
-      "#regulation",
-      "#ethics"
+      "#network",
+      "#programming"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -53,7 +44,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-04-27",
+  "buryDate": "2024-04-29",
   "buryList": [],
   "historyDeck": null
 }

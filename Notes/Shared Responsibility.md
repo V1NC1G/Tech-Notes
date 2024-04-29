@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 Is is where all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security.
 ?
 shared responsibility
-<!--SR:!2024-04-29,4,270-->
+<!--SR:!2024-05-11,12,270-->

@@ -18,6 +18,6 @@ Flashcard Tags: #cybersecurity #attacks
 The act of stealing personal information to commit fraud while impersonating a victim.
 ??
 Identity theft
-<!--SR:!2024-04-29,4,270!2024-04-28,3,252-->
+<!--SR:!2024-05-15,16,290!2024-05-11,13,272-->
 
 

@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 Refers to all potential vulnerabilities that a threat actor could exploit.
 ??
 Attack Surface
-<!--SR:!2024-04-30,3,250!2024-04-28,1,230-->
+<!--SR:!2024-04-30,3,250!2024-05-01,3,250-->

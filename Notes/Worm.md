@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #malware
 Malware that can duplicate and spread itself across systems on its own.
 ??
 Worm
-<!--SR:!2024-04-29,4,270!2024-04-28,3,250-->
+<!--SR:!2024-05-15,16,290!2024-05-10,11,270-->

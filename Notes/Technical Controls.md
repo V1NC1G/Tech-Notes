@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 Security controls that are hardware and software solutions used to protect assets.
 ?
 Technical Controls
-<!--SR:!2024-04-28,1,230-->
+<!--SR:!2024-05-02,3,250-->

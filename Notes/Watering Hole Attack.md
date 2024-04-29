@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #attacks
 An attack on a website frequently visited by a specific group of users.
 ??
 Watering Hole Attack
-<!--SR:!2024-04-28,3,250!2024-04-29,4,270-->
+<!--SR:!2024-05-11,13,270!2024-05-15,16,290-->

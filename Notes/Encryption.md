@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #control
 The process of converting data from readable format to a cryptographically encoded format.
 ??
 Encryption
-<!--SR:!2024-04-29,4,270!2024-04-29,4,270-->
+<!--SR:!2024-05-13,14,290!2024-05-14,15,290-->

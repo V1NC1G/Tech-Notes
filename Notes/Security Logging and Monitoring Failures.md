@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #vulnerability
 Vulnerability that is caused by insufficient logging and monitoring.
 ??
 Security Logging and Monitoring Failures
-<!--SR:!2024-04-28,3,250!2024-04-28,3,250-->
+<!--SR:!2024-05-01,2,230!2024-05-05,6,250-->

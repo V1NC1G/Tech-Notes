@@ -22,4 +22,4 @@ Flashcard Tags: #cybersecurity #attacks
 An attack to attempt accessing password-secured devices, systems, networks, or data.
 ??
 Password Attack
-<!--SR:!2024-04-28,3,250!2024-04-28,3,250-->
+<!--SR:!2024-05-12,13,270!2024-05-12,13,270-->

@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #securitydomains
 Security domain that focuses on access and authorization by ensuring users follow established security policies.
 ??
 Identity and Access Management
-<!--SR:!2024-04-29,3,250!2024-04-29,2,208-->
+<!--SR:!2024-05-09,10,270!2024-05-04,5,228-->

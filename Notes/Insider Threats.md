@@ -22,4 +22,4 @@ Flashcard Tags: #cybersecurity #attackers #threat
 Attackers that abuse their authorized access to obtain data that may harm an organization.
 ??
 insider threats
-<!--SR:!2024-04-28,3,250!2024-04-28,3,250-->
+<!--SR:!2024-05-06,7,250!2024-05-06,7,250-->

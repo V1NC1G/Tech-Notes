@@ -36,4 +36,4 @@ What are the OWASP security principles?
 - Separation of duties
 - Keep security simple
 - Fix security issues correctly
-<!--SR:!2024-04-28,1,230-->
+<!--SR:!2024-05-01,2,210-->

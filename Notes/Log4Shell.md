@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #vulnerability
 A vulnerability that allows attackers to run malicious Java code on devices connected to the internet remotely.
 ??
 Log4Shell
-<!--SR:!2024-04-29,3,250!2024-04-29,3,250-->
+<!--SR:!2024-05-08,9,270!2024-05-11,12,270-->

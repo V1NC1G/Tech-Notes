@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #framework
 A US federal government program aimed to provide consistency across government sector and third-party cloud providers.
 ??
 FedRAMP
-<!--SR:!2024-04-29,2,208!2024-04-28,2,230-->
+<!--SR:!2024-05-05,6,228!2024-05-02,4,230-->

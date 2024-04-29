@@ -30,4 +30,4 @@ Flashcard Tags: #cybersecurity
 Any information used to infer an individuals identity.
 ??
 personally identifiable information
-<!--SR:!2024-04-28,3,268!2024-04-29,3,250-->
+<!--SR:!2024-05-11,13,288!2024-05-09,10,270-->

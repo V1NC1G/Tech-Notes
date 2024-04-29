@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #attacks
 An attack that strategically leaves an infected USB stick for an individual to find and infect a network.
 ??
 USB Baiting
-<!--SR:!2024-04-29,4,270!2024-04-29,4,272-->
+<!--SR:!2024-05-15,16,290!2024-05-14,15,292-->

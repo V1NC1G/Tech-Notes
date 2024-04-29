@@ -42,7 +42,7 @@ Flashcard Tags: #cybersecurity #attacks
 A manipulation technique that exploits human error to gain private information, access, or valuables.
 ??
 Social Engineering
-<!--SR:!2024-04-29,4,270!2024-04-29,3,252-->
+<!--SR:!2024-05-13,14,290!2024-05-01,2,232-->
 
 What are the social engineering principles?
 ?
@@ -53,4 +53,4 @@ What are the social engineering principles?
 - Familiarity
 - Trust
 - Urgency
-<!--SR:!2024-04-28,1,192-->
+<!--SR:!2024-05-01,2,192-->

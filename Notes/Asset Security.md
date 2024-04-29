@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #securitydomains
 One of the CISSP domains that is related to securing digital and physical assets, and is also related to the storage, maintenance, retention, and destruction of data.
 ??
 Asset Security
-<!--SR:!2024-04-29,4,270!2024-04-28,3,250-->
+<!--SR:!2024-05-14,15,290!2024-05-05,6,250-->

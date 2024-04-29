@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #framework
 A cybersecurity framework that provides a common language for communicating about cyber threat activity.
 ??
 Cyber Threat Framework
-<!--SR:!2024-04-28,3,268!2024-04-28,2,230-->
+<!--SR:!2024-05-11,12,288!2024-05-02,4,230-->

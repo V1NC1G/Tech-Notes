@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #securitydomains
 Security domain that focuses on conducting security control testing and security audits to monitor for risk, threats, and vulnerabilities.
 ??
 Security Assessment and Testing
-<!--SR:!2024-04-29,4,270!2024-04-28,3,250-->
+<!--SR:!2024-05-15,16,290!2024-05-06,8,250-->

@@ -20,4 +20,4 @@ Flashcard Tags: #cybersecurity #attackers #threat
 Threat actors that are motivated by a political agenda and abuse digital technology.
 ??
 hacktivists
-<!--SR:!2024-04-29,4,270!2024-04-29,4,272-->
+<!--SR:!2024-05-15,16,290!2024-05-14,15,292-->

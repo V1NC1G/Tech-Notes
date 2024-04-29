@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 The process of adhering to internal standards and external regulations and enables organizations to avoid fines and security breaches.
 ??
 Compliance
-<!--SR:!2024-04-28,3,268!2024-04-28,2,230-->
+<!--SR:!2024-05-11,12,288!2024-05-04,5,250-->

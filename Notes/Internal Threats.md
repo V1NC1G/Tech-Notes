@@ -20,4 +20,4 @@ Flashcard Tags: #cybersecurity
 Current or former employees, vendors, or trusted partner that poses a security risk.
 ??
 Internal Threats
-<!--SR:!2024-04-29,4,270!2024-04-29,4,270-->
+<!--SR:!2024-05-11,12,270!2024-05-12,13,270-->

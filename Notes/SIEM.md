@@ -32,9 +32,9 @@ Flashcard Tags: #cybersecurity #tools
 What does SIEM stand for?
 ?
 Security Information and Event Management
-<!--SR:!2024-04-29,3,250-->
+<!--SR:!2024-05-12,13,270-->
 
 Tools that collect and analyzes log data to monitor critical activities in an organization.
 ??
 SIEM Tools
-<!--SR:!2024-04-28,3,268!2024-04-28,3,250-->
+<!--SR:!2024-05-09,10,288!2024-05-06,8,250-->

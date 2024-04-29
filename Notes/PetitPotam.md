@@ -21,4 +21,4 @@ Windows New Technology Local Area Network Manager
 Affects NTLM that allows a LAN-based attacker to perform authentication requests.
 ??
 PetitPotam
-<!--SR:!2024-04-29,3,248!2024-04-28,1,190-->
+<!--SR:!2024-05-01,2,228!2024-05-02,3,210-->

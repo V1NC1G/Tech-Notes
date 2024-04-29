@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #vulnerability
 A vulnerability in Microsoft's NetLogon authentication protocol.
 ??
 ZeroLogon
-<!--SR:!2024-04-28,2,230!2024-04-28,1,228-->
+<!--SR:!2024-04-30,1,210!2024-04-30,1,208-->

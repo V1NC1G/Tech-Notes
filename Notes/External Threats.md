@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 Someone outside the organization trying to gain access to private information, networks, or devices.
 ??
 External Threats
-<!--SR:!2024-04-28,3,250!2024-04-28,3,250-->
+<!--SR:!2024-05-08,9,270!2024-05-05,6,250-->

@@ -27,7 +27,7 @@ Flashcard Tags: #cybersecurity #ethics
 Who are allowed to counterattack on a threat actor?
 ?
 Approved employees of the federal government or military personnel
-<!--SR:!2024-04-29,4,270-->
+<!--SR:!2024-05-15,16,290-->
 
 What are the conditions of the International Court of Justice for allowing to counterattack on a threat actor?
 ?
@@ -35,4 +35,4 @@ What are the conditions of the International Court of Justice for allowing to co
 2. A direct communication to the attacker to stop
 3. Does not escalate the situation
 4. Can be reversed
-<!--SR:!2024-04-28,3,250-->
+<!--SR:!2024-05-06,7,250-->

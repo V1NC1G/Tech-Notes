@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #technique
 The act of participating in a simulated attack to identify vulnerabilities.
 ??
 Penetration testing
-<!--SR:!2024-04-29,4,270!2024-04-29,4,270-->
+<!--SR:!2024-05-14,15,290!2024-05-15,16,290-->
