@@ -5,7 +5,7 @@ A network device that makes connections between specific devices on a network by
 
 More secure than a [[Hub|hub]] as it only passes data to the intended destination.
 
-![[Switch Diagram.drawio.png|100%|center]]
+![[switch-diagram.excalidraw|100%|center]]
 
 ---
 # References
