@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/OSI Model.md",
+                "file": "Notes/MAC Address.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/OSI Model.md",
+                "file": "Notes/MAC Address.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/OSI Model.md",
+                "file": "Notes/MAC Address.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/OSI Model.md"
+                "file": "Notes/MAC Address.md"
               }
             }
           },
@@ -200,23 +200,34 @@
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "c0cb4e3b178c519c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-29 20.55.54.excalidraw.md",
+    "Notes/IPv6.md",
+    "Notes/MAC Address.md",
+    "Notes/IPv4.md",
+    "Notes/IP Address.md",
+    "Notes/TCP.md",
     "Notes/OSI Model.md",
+    "Notes/Physical Layer - OSI.md",
+    "Notes/Data Link Layer - OSI.md",
+    "Notes/Network Layer - OSI.md",
+    "Notes/Transport Layer - OSI.md",
+    "Notes/Session Layer - OSI.md",
+    "Notes/Presentation Layer - OSI.md",
+    "Notes/Application Layer - OSI.md",
+    "Excalidraw/Drawing 2024-04-29 20.55.54.excalidraw.md",
     "Notes/Internet Layer - TCP-IP.md",
     "Notes/Network Access Layer - TCP-IP.md",
     "Notes/Transport Layer - TCP-IP.md",
     "Notes/Application Layer (TCP-IP).md",
     "Notes/TCP-IP Model.md",
     "Notes/UDP.md",
-    "Notes/TCP.md",
     "Notes/Internet Control Message Protocol.md",
     "Notes/IP.md",
     "Excalidraw/tcp-ip-model-layers.excalidraw.md",
@@ -225,17 +236,6 @@
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Notes/Port.md",
-    "Notes/Data Packet.md",
-    "Notes/IP Address.md",
-    "Notes/Packet Sniffing.md",
-    "Notes/Bandwidth.md",
-    "Notes/Cloud Network.md",
-    "Notes/Cloud Computing.md",
-    "Notes/Firewall.md",
-    "Notes/Virtualization Tools.md",
-    "Notes/Modem.md",
-    "Notes/Router.md",
-    "Notes/Incident Response.md",
     "Portfolio",
     "ISO",
     "Notes",

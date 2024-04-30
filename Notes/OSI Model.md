@@ -28,3 +28,12 @@ It can be used by network and security professionals to communicate withe each o
 
 Flashcard Tags: #network 
 
+What are the layers of the OSI model?
+?
+- Application
+- Presentation
+- Session
+- Transport
+- Network
+- Data Link
+- Physical
