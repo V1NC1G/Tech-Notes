@@ -40,12 +40,12 @@ What are the core functions of the NIST CSF?
 - Detect
 - Respond
 - Recover
-<!--SR:!2024-04-30,1,203-->
+<!--SR:!2024-05-01,1,183-->
 
 A core function of the NIST CSF that manages security risks and effects on the organization.
 ?
 Identify
-<!--SR:!2024-04-30,3,263-->
+<!--SR:!2024-05-02,2,243-->
 
 A core function of the NIST CSF that implements policies, procedures, training, and tools to mitigate cybersecurity risk.
 ?
@@ -55,14 +55,14 @@ Protect
 A core function of the NIST CSF that identifies potential security incidents and improves monitoring capabilities to increase detection efficiency.
 ?
 Detect
-<!--SR:!2024-04-30,1,203-->
+<!--SR:!2024-05-01,1,183-->
 
 A core function of the NIST CSF that ensures proper procedure are used to handle security incidents and improve security processes.
 ?
 Respond
-<!--SR:!2024-04-30,1,183-->
+<!--SR:!2024-05-01,1,163-->
 
 A core function of the NIST CSF that is the process of returning affected systems back to normal operations.
 ?
 Recover
-<!--SR:!2024-04-30,3,263-->
+<!--SR:!2024-05-08,8,263-->

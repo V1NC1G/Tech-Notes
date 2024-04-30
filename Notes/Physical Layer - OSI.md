@@ -16,3 +16,4 @@ Flashcard Tags: #network
 A layer in the OSI model that corresponds to the physical hardware involved in a network transmission.
 ?
 Physical Layer
+<!--SR:!2024-05-04,4,270-->

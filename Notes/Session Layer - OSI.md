@@ -24,3 +24,4 @@ Flashcard Tags: #network
 The layer in the OSI model that is responsible for keeping sessions open when data is being transferred and terminating the session when the transmission is complete.
 ?
 Session Layer
+<!--SR:!2024-05-04,4,270-->

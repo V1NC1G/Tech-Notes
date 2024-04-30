@@ -22,3 +22,4 @@ Flashcard Tags: #network
 A layer in the TCP/IP model where protocols determine how the data packets will interact with receiving devices.
 ?
 Application layer
+<!--SR:!2024-05-01,1,230-->

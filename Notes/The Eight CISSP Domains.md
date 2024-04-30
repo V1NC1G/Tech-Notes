@@ -31,4 +31,4 @@ What are the eight CISSP domains?
 6. Security Assessment and Testing
 7. Security Operations
 8. Software Development Security
-<!--SR:!2024-04-30,1,210-->
+<!--SR:!2024-05-02,2,210-->

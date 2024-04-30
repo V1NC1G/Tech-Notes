@@ -22,3 +22,4 @@ Flashcard Tags: #network
 A connectionless protocol that does not establish a connection between devices before transmission and used with performance sensitive applications.
 ?
 UDP
+<!--SR:!2024-05-04,4,270-->

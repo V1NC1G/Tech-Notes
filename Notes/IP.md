@@ -22,7 +22,9 @@ Flashcard Tags: #network
 A set of standards used for routing and addressing data packets as they travel between devices on a network.
 ?
 IP
+<!--SR:!2024-05-04,4,270-->
 
 What does IP stands for?
 ?
 Internet Protocol
+<!--SR:!2024-05-04,4,270-->

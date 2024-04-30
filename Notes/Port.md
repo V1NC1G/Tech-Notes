@@ -22,3 +22,4 @@ Flashcard Tags: #network
 A software-based location that organizes the sending and receiving of data between devices on a network.
 ?
 Port
+<!--SR:!2024-05-04,4,270-->

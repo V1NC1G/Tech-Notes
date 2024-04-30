@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #risk
 Security risk where software is not updated or in compliance, or patches that are not installed in a timely manner.
 ??
 Software Compliance or Licensing
-<!--SR:!2024-04-30,1,210!2024-05-08,9,270-->
+<!--SR:!2024-05-02,2,210!2024-05-08,9,270-->

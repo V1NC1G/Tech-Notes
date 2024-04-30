@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 A security principle where an optimal security state of an application is also its default state for users.
 ?
 Establish secure defaults
-<!--SR:!2024-04-30,1,210-->
+<!--SR:!2024-05-03,3,230-->

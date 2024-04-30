@@ -60,4 +60,4 @@ What are the areas of focus in a security audit checklist?
 - Conduct the audit
 - Create a mitigation plan
 - Communicate results to stakeholders
-<!--SR:!2024-04-30,1,210-->
+<!--SR:!2024-05-02,2,210-->

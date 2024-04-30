@@ -39,4 +39,4 @@ What are the major phases of an incident response process?
 - Detection and Analysis
 - Containment, Eradication, and Recovery
 - Post-Incident Activity
-<!--SR:!2024-04-30,1,230-->
+<!--SR:!2024-05-01,1,210-->

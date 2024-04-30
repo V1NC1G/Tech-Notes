@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 The process of ensuring assets stored in the cloud are properly configured, and access to those assets is limited to authorized users.
 ??
 Cloud Security
-<!--SR:!2024-05-13,14,290!2024-04-30,2,230-->
+<!--SR:!2024-05-13,14,290!2024-05-05,5,230-->

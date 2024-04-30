@@ -21,3 +21,4 @@ Flashcard Tags: #network
 A layer in the OSI model that organizes sending and receiving data packets within a single network.
 ?
 Data Link Layer
+<!--SR:!2024-05-04,4,270-->
