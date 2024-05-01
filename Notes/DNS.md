@@ -5,7 +5,7 @@ Tags: [[Network]] [[Network Protocols]]
 
 A network protocol that translates internet domain names into IP addresses.
 
-Uses [[TCP]] on port 53, but for large requests, switches to using [[TCP]].
+Uses [[UDP]] on port 53, but for large requests, switches to using [[TCP]].
 
 Occurs at the [[Application Layer - OSI|application layer]].
 
@@ -22,3 +22,7 @@ Flashcard Tags: #network
 A network protocol that translates internet domain names into IP addresses.
 ?
 Domain Name Server (DNS)
+
+DNS port where it uses UDP.
+?
+port 53

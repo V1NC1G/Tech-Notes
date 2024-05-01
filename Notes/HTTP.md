@@ -22,3 +22,7 @@ Flashcard Tags: #network
 A protocol that provides a method of communication between client and website servers and is considered insecure.
 ?
 HTTP
+
+What port number does HTTP uses?
+?
+port 80

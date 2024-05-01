@@ -23,28 +23,24 @@
             "id": "13953253ea316fbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/TCP-IP Model.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "c0cb4e3b178c519c",
+            "id": "9d293c34fdfff31b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Management Protocols.md",
+                "file": "Notes/DHCP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obscu",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Management Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Management Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notes/Management Protocols.md"
-              }
+              "state": {}
             }
           },
           {
@@ -199,34 +190,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c0cb4e3b178c519c",
+  "active": "13953253ea316fbc",
   "lastOpenFiles": [
-    "Notes/OWASP.md",
-    "Notes/Management Protocols.md",
+    "Notes/Network Protocols.md",
+    "Notes/WPA3.md",
+    "Notes/WPA2.md",
+    "Notes/WPA.md",
+    "Notes/WEP.md",
+    "Notes/TCP.md",
+    "Notes/IEEE 802.11.md",
+    "0 Roadmap/Cybersecurity Certification Roadmap.md",
+    "Notes/Port.md",
+    "0 Roadmap/Cybersecurity Kanban.md",
+    "Notes/DHCP.md",
+    "Notes/SMTP.md",
+    "Notes/IMAP.md",
+    "Notes/POP.md",
+    "Notes/Untitled.md",
+    "Notes/SSH.md",
+    "Notes/Telnet.md",
+    "Notes/ARP.md",
+    "Notes/OSI Model.md",
+    "Notes/NAT.md",
+    "Excalidraw/NAT-table.excalidraw.md",
+    "Notes/TCP-IP Model.md",
+    "Notes/SFTP.md",
+    "Notes/HTTPS.md",
     "Notes/HTTP.md",
     "Notes/DNS.md",
-    "Notes/Communication Protocols.md",
-    "Notes/UDP.md",
-    "Notes/TCP.md",
-    "Notes/Network Protocols.md",
-    "Notes/HTTPS.md",
-    "Notes/ARP.md",
-    "Notes/Application Layer - OSI.md",
-    "Notes/NIST RMF.md",
-    "Excalidraw/incident-response-process.excalidraw.md",
-    "Notes/OSI Model.md",
-    "Notes/Transport Layer - OSI.md",
-    "Notes/Session Layer - OSI.md",
-    "Notes/Presentation Layer - OSI.md",
-    "Notes/Physical Layer - OSI.md",
-    "Notes/Network Layer - OSI.md",
-    "Notes/MAC Address.md",
-    "Notes/IPv6.md",
-    "Notes/IPv4.md",
-    "Notes/Data Link Layer - OSI.md",
-    "Excalidraw/Drawing 2024-04-29 20.55.54.excalidraw.md",
-    "Notes/Internet Layer - TCP-IP.md",
-    "Notes/Network Access Layer - TCP-IP.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",

@@ -3,6 +3,8 @@ Tags: [[Network]] [[Network Protocols]]
 
 **Address Resolution Protocol**
 
+A [[Network Access Layer - TCP-IP|network access layer]] protocol used to translate the [[IP Address]] that is found in data packets into the [[MAC Address]] of the hardware device.
+
 A network protocol used to determine the [[MAC Address]] of the next router or device on a path.
 
 ---
@@ -15,6 +17,6 @@ A network protocol used to determine the [[MAC Address]] of the next router or d
 
 Flashcard Tags: #network 
 
-A network protocol used to determine the MAC address of the next router or device on a path.
+A network access layer protocol used to translate the IP address that is found in data packets into the MAC address of the hardware device.
 ?
 Address Resolution Protocol (ARP)

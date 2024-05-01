@@ -10,7 +10,7 @@ Also focuses on how networks connect to each other.
 ## Protocols that operate at the Internet Layer
 
 - [[IP]]
-- [[Internet Control Message Protocol]]
+- [[ICMP]]
 
 ---
 # References
