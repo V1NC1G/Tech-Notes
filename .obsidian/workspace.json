@@ -37,18 +37,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NIST RMF.md",
+                "file": "Notes/Management Protocols.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "c66bac4654262d30",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -81,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#networking  ",
+                "query": "obscu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -118,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/NIST RMF.md",
+                "file": "Notes/Management Protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/NIST RMF.md",
+                "file": "Notes/Management Protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NIST RMF.md"
+                "file": "Notes/Management Protocols.md"
               }
             }
           },
@@ -181,21 +174,14 @@
               "type": "review-queue-list-view",
               "state": {}
             }
-          },
-          {
-            "id": "bce02518f7815a9d",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,42 +193,42 @@
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "c0cb4e3b178c519c",
   "lastOpenFiles": [
-    "Notes/IP.md",
-    "Notes/IPv6.md",
-    "Notes/MAC Address.md",
-    "Notes/IPv4.md",
-    "Notes/IP Address.md",
+    "Notes/OWASP.md",
+    "Notes/Management Protocols.md",
+    "Notes/HTTP.md",
+    "Notes/DNS.md",
+    "Notes/Communication Protocols.md",
+    "Notes/UDP.md",
     "Notes/TCP.md",
+    "Notes/Network Protocols.md",
+    "Notes/HTTPS.md",
+    "Notes/ARP.md",
+    "Notes/Application Layer - OSI.md",
+    "Notes/NIST RMF.md",
+    "Excalidraw/incident-response-process.excalidraw.md",
     "Notes/OSI Model.md",
-    "Notes/Physical Layer - OSI.md",
-    "Notes/Data Link Layer - OSI.md",
-    "Notes/Network Layer - OSI.md",
     "Notes/Transport Layer - OSI.md",
     "Notes/Session Layer - OSI.md",
     "Notes/Presentation Layer - OSI.md",
-    "Notes/Application Layer - OSI.md",
+    "Notes/Physical Layer - OSI.md",
+    "Notes/Network Layer - OSI.md",
+    "Notes/MAC Address.md",
+    "Notes/IPv6.md",
+    "Notes/IPv4.md",
+    "Notes/Data Link Layer - OSI.md",
     "Excalidraw/Drawing 2024-04-29 20.55.54.excalidraw.md",
     "Notes/Internet Layer - TCP-IP.md",
     "Notes/Network Access Layer - TCP-IP.md",
-    "Notes/Transport Layer - TCP-IP.md",
-    "Notes/Application Layer (TCP-IP).md",
-    "Notes/TCP-IP Model.md",
-    "Notes/UDP.md",
-    "Notes/Internet Control Message Protocol.md",
-    "Excalidraw/tcp-ip-model-layers.excalidraw.md",
-    "Notes/Switch.md",
-    "Excalidraw/switch-diagram.excalidraw.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
-    "Notes/Port.md",
     "Portfolio",
     "ISO",
     "Notes",

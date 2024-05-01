@@ -9,6 +9,11 @@ Used with applications that are not concerned with the reliability of the transm
 
 Mostly used with performance sensitive applications that operate in real time.
 
+> [!example] 
+> Use case of UDP is sending DNS requests to local DNS servers.
+
+Occurs at the [[Transport Layer - OSI|transport layer]].
+
 ---
 # References
 

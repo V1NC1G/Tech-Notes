@@ -4,7 +4,7 @@ Tags: [[Network]] [[OSI Model]]
 This layer includes processes that directly involve the everyday user and includes all the networking protocols that software applications use to connect to the internet.
 
 > [!example] 
-> Using a web browser by using HTTP or HTTPS to send and receive information.
+> Using a web browser by using HTTP or [[HTTPS]] to send and receive information.
 
 ---
 # References
