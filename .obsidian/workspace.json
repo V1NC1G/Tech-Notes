@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/IP.md",
+                "file": "Atomic Notes/IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,24 +23,40 @@
             "id": "13953253ea316fbc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/TCP-IP Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
-            "id": "9d293c34fdfff31b",
+            "id": "c0cb4e3b178c519c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/DHCP.md",
+                "file": "Career/Google Professional Statement Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6127ad3689d599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Uncontrolled Zone.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atomic Notes/Uncontrolled Zone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atomic Notes/Uncontrolled Zone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Atomic Notes/Uncontrolled Zone.md"
+              }
             }
           },
           {
@@ -152,7 +172,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Personally Identifiable Information.md",
+                "file": "Atomic Notes/Personally Identifiable Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,39 +210,39 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "13953253ea316fbc",
+  "active": "f16c9c2646c2d883",
   "lastOpenFiles": [
-    "Notes/Network Protocols.md",
-    "Notes/WPA3.md",
-    "Notes/WPA2.md",
-    "Notes/WPA.md",
-    "Notes/WEP.md",
-    "Notes/TCP.md",
-    "Notes/IEEE 802.11.md",
+    "Atomic Notes/Controlled Zone.md",
+    "Atomic Notes/Uncontrolled Zone.md",
+    "Atomic Notes/Security Zone.md",
+    "Atomic Notes/Network Segmentation.md",
+    "Atomic Notes/VPN.md",
+    "README.md",
+    "Career/Google Professional Statement Outline.md",
+    "Atomic Notes/TCP-IP Model.md",
+    "Atomic Notes/Asset Security.md",
+    "Templates/Scratch Note.md",
+    "Career/Checklist before applying for Cybersecurity jobs.md",
+    "Atomic Notes/Encapsulation.md",
     "0 Roadmap/Cybersecurity Certification Roadmap.md",
-    "Notes/Port.md",
-    "0 Roadmap/Cybersecurity Kanban.md",
-    "Notes/DHCP.md",
-    "Notes/SMTP.md",
-    "Notes/IMAP.md",
-    "Notes/POP.md",
-    "Notes/Untitled.md",
-    "Notes/SSH.md",
-    "Notes/Telnet.md",
-    "Notes/ARP.md",
-    "Notes/OSI Model.md",
-    "Notes/NAT.md",
-    "Excalidraw/NAT-table.excalidraw.md",
-    "Notes/TCP-IP Model.md",
-    "Notes/SFTP.md",
-    "Notes/HTTPS.md",
-    "Notes/HTTP.md",
-    "Notes/DNS.md",
+    "Atomic Notes/Next Generation Firewall.md",
+    "Atomic Notes/Network Security.md",
+    "Atomic Notes/Firewall.md",
+    "Atomic Notes/Stateless Firewall.md",
+    "Atomic Notes/Stateful Firewall.md",
+    "Atomic Notes/Cloud-Based Firewall.md",
+    "Atomic Notes/Software Firewall.md",
+    "Atomic Notes/Hardware Firewall.md",
+    "Atomic Notes/Port Filtering.md",
+    "Atomic Notes/NIST CSF.md",
+    "Atomic Notes/NIST RMF.md",
+    "Atomic Notes/Management Protocols.md",
+    "Atomic Notes/WPA3.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",
     "ISO",
-    "Notes",
+    "Atomic Notes",
     "Files",
     "References",
     "Cybersecurity/Google Cybersecurity Professional Certificate/Manage Security Risks",
