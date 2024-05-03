@@ -49,14 +49,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Uncontrolled Zone.md",
+                "file": "Atomic Notes/Controlled Zone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6940b19a7d1ce67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Subnetting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78a9e3f728e1d043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Subnetting.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Uncontrolled Zone.md",
+                "file": "Atomic Notes/Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Uncontrolled Zone.md",
+                "file": "Atomic Notes/Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Uncontrolled Zone.md"
+                "file": "Atomic Notes/Subnetting.md"
               }
             }
           },
@@ -207,15 +231,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "f16c9c2646c2d883",
+  "active": "78a9e3f728e1d043",
   "lastOpenFiles": [
-    "Atomic Notes/Controlled Zone.md",
-    "Atomic Notes/Uncontrolled Zone.md",
-    "Atomic Notes/Security Zone.md",
+    "Atomic Notes/CIDR.md",
+    "Atomic Notes/Classful Addressing.md",
+    "Atomic Notes/Subnetting.md",
+    "Excalidraw/subnetting.excalidraw.md",
     "Atomic Notes/Network Segmentation.md",
+    "Atomic Notes/Uncontrolled Zone.md",
+    "Atomic Notes/Controlled Zone.md",
+    "Excalidraw/security-zones-diagram.excalidraw.md",
+    "Atomic Notes/Restricted Zone.md",
+    "Atomic Notes/Internal Network.md",
+    "Atomic Notes/Demilitarized Zone.md",
+    "Atomic Notes/Security Zone.md",
     "Atomic Notes/VPN.md",
     "README.md",
     "Career/Google Professional Statement Outline.md",
@@ -230,14 +264,6 @@
     "Atomic Notes/Firewall.md",
     "Atomic Notes/Stateless Firewall.md",
     "Atomic Notes/Stateful Firewall.md",
-    "Atomic Notes/Cloud-Based Firewall.md",
-    "Atomic Notes/Software Firewall.md",
-    "Atomic Notes/Hardware Firewall.md",
-    "Atomic Notes/Port Filtering.md",
-    "Atomic Notes/NIST CSF.md",
-    "Atomic Notes/NIST RMF.md",
-    "Atomic Notes/Management Protocols.md",
-    "Atomic Notes/WPA3.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",
