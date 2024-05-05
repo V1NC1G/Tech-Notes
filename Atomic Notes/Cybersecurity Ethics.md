@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #ethics
 Guidelines for making appropriate decisions as a security professional.
 ??
 Security Ethics
-<!--SR:!2024-05-15,16,290!2024-05-03,4,210-->
+<!--SR:!2024-05-15,16,290!2024-05-15,11,230-->

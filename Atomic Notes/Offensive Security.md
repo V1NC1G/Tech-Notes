@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 It is the process of breaking into computer systems, exploiting bugs, and finding loopholes to gain unauthorized access to them.
 ?
 Offensive Security
-<!--SR:!2024-05-03,4,270-->
+<!--SR:!2024-05-16,12,270-->

@@ -32,4 +32,4 @@ Flashcard Tags: #cybersecurity
 Guidelines used for building plans to help mitigate risks and threats to data and privacy.
 ??
 Security Frameworks
-<!--SR:!2024-05-14,15,290!2024-05-04,4,230-->
+<!--SR:!2024-05-14,15,290!2024-05-12,8,230-->

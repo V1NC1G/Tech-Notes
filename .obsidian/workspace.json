@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Subnetting.md",
+                "file": "Atomic Notes/Email Proxy Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Subnetting.md",
+                "file": "Atomic Notes/Email Proxy Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Subnetting.md",
+                "file": "Atomic Notes/Email Proxy Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Subnetting.md"
+                "file": "Atomic Notes/Email Proxy Server.md"
               }
             }
           },
@@ -238,9 +238,13 @@
   },
   "active": "78a9e3f728e1d043",
   "lastOpenFiles": [
+    "Atomic Notes/Reverse Proxy Server.md",
+    "Atomic Notes/Email Proxy Server.md",
+    "Atomic Notes/Forward Proxy Server.md",
+    "Atomic Notes/Proxy Servers.md",
+    "Atomic Notes/Subnetting.md",
     "Atomic Notes/CIDR.md",
     "Atomic Notes/Classful Addressing.md",
-    "Atomic Notes/Subnetting.md",
     "Excalidraw/subnetting.excalidraw.md",
     "Atomic Notes/Network Segmentation.md",
     "Atomic Notes/Uncontrolled Zone.md",
@@ -260,10 +264,6 @@
     "Atomic Notes/Encapsulation.md",
     "0 Roadmap/Cybersecurity Certification Roadmap.md",
     "Atomic Notes/Next Generation Firewall.md",
-    "Atomic Notes/Network Security.md",
-    "Atomic Notes/Firewall.md",
-    "Atomic Notes/Stateless Firewall.md",
-    "Atomic Notes/Stateful Firewall.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",

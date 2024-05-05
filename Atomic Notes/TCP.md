@@ -30,12 +30,12 @@ Flashcard Tags: #network
 An internet communication protocol that allows two devices to form a connection and stream data.
 ?
 TCP
-<!--SR:!2024-05-03,3,250-->
+<!--SR:!2024-05-10,6,250-->
 
 What does TCP stands for?
 ?
 Transmission Control Protocol
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-06,2,250-->
 
 What is the process of a three-way handshake in TCP?
 ?

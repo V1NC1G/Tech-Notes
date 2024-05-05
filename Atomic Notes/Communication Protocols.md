@@ -21,4 +21,4 @@ Flashcard Tags: #network
 Govern the exchange of information in network transmission
 ?
 Communication Protocols
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->

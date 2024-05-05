@@ -29,14 +29,14 @@ Flashcard Tags: #network
 An application layer protocol used to manage and retrieve email from a mail server.
 ?
 Post Office Protocol (POP)
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-06,2,230-->
 
 Unencrypted plain text authentication port for POP.
 ?
 port 110
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->
 
 Encrypted emails port for POP.
 ?
 port 995
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->

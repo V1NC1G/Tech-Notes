@@ -31,7 +31,7 @@ Flashcard Tags: #cybersecurity #framework
 A voluntary framework that consists of standards, guidelines, and best practices to manage cybersecurity risk.
 ??
 NIST CSF
-<!--SR:!2024-05-04,5,250!2024-05-03,4,210-->
+<!--SR:!2024-05-24,20,270!2024-05-12,8,210-->
 
 What are the core functions of the NIST CSF?
 ?
@@ -40,7 +40,7 @@ What are the core functions of the NIST CSF?
 - Detect
 - Respond
 - Recover
-<!--SR:!2024-05-04,2,183-->
+<!--SR:!2024-05-08,4,183-->
 
 A core function of the NIST CSF that manages security risks and effects on the organization.
 ?
@@ -50,17 +50,17 @@ Identify
 A core function of the NIST CSF that implements policies, procedures, training, and tools to mitigate cybersecurity risk.
 ?
 Protect
-<!--SR:!2024-05-03,4,243-->
+<!--SR:!2024-05-06,2,223-->
 
 A core function of the NIST CSF that identifies potential security incidents and improves monitoring capabilities to increase detection efficiency.
 ?
 Detect
-<!--SR:!2024-05-04,2,183-->
+<!--SR:!2024-05-05,1,163-->
 
 A core function of the NIST CSF that ensures proper procedure are used to handle security incidents and improve security processes.
 ?
 Respond
-<!--SR:!2024-05-03,1,143-->
+<!--SR:!2024-05-05,1,130-->
 
 A core function of the NIST CSF that is the process of returning affected systems back to normal operations.
 ?

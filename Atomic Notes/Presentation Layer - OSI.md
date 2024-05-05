@@ -23,4 +23,4 @@ Flashcard Tags: #network
 A layer in the OSI model that involve data translation and encryption for the network.
 ?
 Presentation Layer
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-19,15,290-->

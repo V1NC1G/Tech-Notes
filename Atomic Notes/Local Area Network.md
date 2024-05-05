@@ -16,4 +16,4 @@ Flashcard Tags: #network
 A network that spans a small area.
 ?
 LAN
-<!--SR:!2024-05-03,4,270-->
+<!--SR:!2024-05-17,13,290-->

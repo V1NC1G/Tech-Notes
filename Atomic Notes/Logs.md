@@ -22,9 +22,9 @@ Flashcard Tags: #cybersecurity
 These are record of events that occur within an organization's systems and networks.
 ?
 Logs
-<!--SR:!2024-05-03,4,270-->
+<!--SR:!2024-05-17,13,290-->
 
 What are the common log sources?
 ?
 Firewall, network, and server logs
-<!--SR:!2024-05-03,4,270-->
+<!--SR:!2024-05-18,14,290-->

@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity
 A task/role in SOC where it aims to gather information about an actual/potential attacker to help an organization prepare against potential adversaries.
 ?
 Threat Intelligence
-<!--SR:!2024-05-03,4,270-->
+<!--SR:!2024-05-20,16,290-->

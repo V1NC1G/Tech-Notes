@@ -47,7 +47,7 @@ Security control types.
 - Corrective
 - Detective
 - Deterrent
-<!--SR:!2024-05-04,2,192-->
+<!--SR:!2024-05-08,4,192-->
 
 Security control categories
 ?

@@ -28,4 +28,4 @@ Flashcard Tags: #cybersecurity #tools
 A manual that provides details about any operational action.
 ??
 Playbooks
-<!--SR:!2024-05-11,13,270!2024-05-03,4,230-->
+<!--SR:!2024-05-11,13,270!2024-05-11,7,230-->

@@ -22,4 +22,4 @@ Flashcard Tags: #cybersecurity
 The process of investigating crimes and establishing facts in digital systems.
 ?
 Digital Forensics
-<!--SR:!2024-05-03,4,270-->
+<!--SR:!2024-05-18,14,290-->

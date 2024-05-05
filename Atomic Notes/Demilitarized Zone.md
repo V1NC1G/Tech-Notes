@@ -22,3 +22,4 @@ Flashcard Tags: #network
 An area in the controlled zone where it contains public facing services that can access the internet.
 ?
 Demilitarized Zone
+<!--SR:!2024-05-08,4,270-->

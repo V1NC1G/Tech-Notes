@@ -23,9 +23,9 @@ Flashcard Tags: #network
 An address for each private network.
 ?
 IP Address
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-17,13,290-->
 
 What are the two types of IP addresses?
 ?
 - IPv4 and IPv6
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-18,14,290-->

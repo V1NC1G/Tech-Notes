@@ -27,4 +27,4 @@ Domain Name Server (DNS)
 DNS port where it uses UDP.
 ?
 port 53
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->

@@ -25,4 +25,4 @@ Flashcard Tags: #network
 A network protocol used for monitoring and managing devices on a network.
 ?
 Simple Network Management Protocol (SNMP)
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->

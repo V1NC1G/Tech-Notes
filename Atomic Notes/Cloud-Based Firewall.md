@@ -16,3 +16,4 @@ Flashcard Tags: #network
 Software firewalls that are hosted by a cloud service provider that protects assets and processes that an organization might be using in the cloud.
 ?
 Cloud-Based Firewall
+<!--SR:!2024-05-08,4,270-->

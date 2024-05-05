@@ -19,4 +19,4 @@ Flashcard Tags: #network
 This is a layer in the OSI model that includes process that directly involve the user.
 ?
 Application Layer
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-18,14,290-->

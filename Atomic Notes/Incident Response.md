@@ -31,7 +31,7 @@ Flashcard Tags: #cybersecurity
 The methodology that is followed when an incident occurs.
 ?
 Incident Response
-<!--SR:!2024-05-03,4,270-->
+<!--SR:!2024-05-20,16,290-->
 
 What are the major phases of an incident response process?
 ?

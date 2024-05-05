@@ -18,3 +18,4 @@ Flashcard Tags: #network
 A network security software program that is installed on computers or servers that monitors traffic to and from your network.
 ?
 Software Firewall
+<!--SR:!2024-05-05,1,230-->

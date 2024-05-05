@@ -24,14 +24,14 @@ Flashcard Tags: #network
 Protocol used for incoming email and remains on the email server which allows users to access the mail across multiple devices.
 ?
 Internet Message Access Protocol (IMAP)
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-06,2,230-->
 
 Port on which IMAP operates for unencrypted email.
 ?
 port 143
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->
 
 Port on which IMAP operates over TLS.
 ?
 port 993
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->

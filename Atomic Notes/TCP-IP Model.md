@@ -26,7 +26,7 @@ Flashcard Tags: #network
 A framework that is used to visualize how data is organized and transmitted across the network.
 ??
 TCP/IP Model
-<!--SR:!2024-05-04,4,270!2024-05-04,2,230-->
+<!--SR:!2024-05-17,13,290!2024-05-08,4,230-->
 
 What are the layers of the TCP/IP model?
 ?
@@ -34,4 +34,4 @@ What are the layers of the TCP/IP model?
 - Internet Layer
 - Transport Layer
 - Application Layer
-<!--SR:!2024-05-03,3,250-->
+<!--SR:!2024-05-06,2,230-->

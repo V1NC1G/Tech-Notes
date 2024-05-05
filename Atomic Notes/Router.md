@@ -16,4 +16,4 @@ Flashcard Tags: #network
 A network device that connects multiple networks together.
 ?
 Router
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-20,16,290-->

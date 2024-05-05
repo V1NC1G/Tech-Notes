@@ -18,3 +18,4 @@ Flashcard Tags: #network
 An area in the controlled zone where it contains private servers and data that the organization needs to protect.
 ?
 Internal Network
+<!--SR:!2024-05-08,4,270-->

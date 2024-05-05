@@ -25,4 +25,4 @@ Flashcard Tags: #cybersecurity #securitydomains
 Security domain that focuses on conducting investigations and implements preventative security measures.
 ??
 Security Operations
-<!--SR:!2024-05-14,15,290!2024-05-04,5,230-->
+<!--SR:!2024-05-14,15,290!2024-05-07,3,210-->

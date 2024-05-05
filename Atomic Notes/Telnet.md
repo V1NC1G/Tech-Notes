@@ -23,4 +23,4 @@ Telnet
 Port telnet protocol use.
 ?
 port 23
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-06,2,230-->

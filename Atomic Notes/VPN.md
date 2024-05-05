@@ -20,4 +20,5 @@ Flashcard Tags: #network
 A network security service that changes your public IP address and hides your virtual location so that you can keep your data private when using a public network.
 ?
 Virtual Private Network (VPN)
+<!--SR:!2024-05-05,1,230-->
 

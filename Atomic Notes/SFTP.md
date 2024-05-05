@@ -22,7 +22,7 @@ Flashcard Tags: #network
 A secure protocol used to transfer files from one device to another over a network.
 ?
 Secure File Transfer Protocol (SFTP)
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->
 
 What typically is the port for SFTP and SSH?
 ?

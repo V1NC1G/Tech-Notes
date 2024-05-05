@@ -25,4 +25,4 @@ Flashcard Tags: #network
 It is a layer in the TCP/IP model where IP addresses are attached to data packets to indicate the location of the sender and receiver.
 ?
 Internet Layer
-<!--SR:!2024-05-03,1,210-->
+<!--SR:!2024-05-05,1,190-->

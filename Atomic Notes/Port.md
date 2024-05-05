@@ -39,7 +39,7 @@ Flashcard Tags: #network
 A software-based location that organizes the sending and receiving of data between devices on a network.
 ?
 Port
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-20,16,290-->
 
 Email port number.
 ?
@@ -49,4 +49,4 @@ port 25
 Large file transfers port number.
 ?
 port 20
-<!--SR:!2024-05-03,1,232-->
+<!--SR:!2024-05-06,2,232-->

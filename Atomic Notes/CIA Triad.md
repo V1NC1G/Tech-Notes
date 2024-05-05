@@ -37,7 +37,7 @@ A model that helps informs how organizations consider risk when setting up syste
 Key aspects that the CIA triad ensure.
 ?
 Data is correct, authentic, and reliable.
-<!--SR:!2024-05-04,5,256-->
+<!--SR:!2024-05-24,20,276-->
 
 What is CIA in the CIA triad?
 ?

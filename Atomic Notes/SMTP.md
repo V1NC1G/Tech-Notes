@@ -29,9 +29,9 @@ Simple Mail Transfer Protocol (SMTP)
 SMTP port for unencrypted emails.
 ?
 port 25
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->
 
 SMTP port for encrypted emails.
 ?
 port 587
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-05,1,210-->

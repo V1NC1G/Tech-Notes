@@ -24,9 +24,9 @@ Flashcard Tags: #network
 A network protocol that provides a secure method of communication between clients and website servers.
 ?
 HyperText Transfer Protocol Secure (HTTPS)
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-07,3,250-->
 
 What port does HTTPS uses?
 ?
 port 443
-<!--SR:!2024-05-03,1,230-->
+<!--SR:!2024-05-06,2,230-->

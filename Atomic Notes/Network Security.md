@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 The practice of keeping an organization's network infrastructure secure from unauthorized access.
 ??
 Network Security
-<!--SR:!2024-05-04,5,250!2024-05-04,2,210-->
+<!--SR:!2024-05-23,19,270!2024-05-09,5,230-->

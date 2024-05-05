@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #vulnerability
 A vulnerability that affects the Microsoft Exchange server that allows a threat actor to authenticate and deploy malicious code remotely.
 ??
 ProxyLogon
-<!--SR:!2024-05-04,6,250!2024-05-10,8,228-->
+<!--SR:!2024-05-19,15,250!2024-05-10,8,228-->

@@ -26,11 +26,11 @@ Flashcard Tags: #network
 A basic unit of information that travels from one device to another within a network.
 ?
 Data Packet
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-21,17,290-->
 
 Contents of a data packet.
 ?
 - Header
 - Body
 - Footer
-<!--SR:!2024-05-04,4,270-->
+<!--SR:!2024-05-21,17,290-->

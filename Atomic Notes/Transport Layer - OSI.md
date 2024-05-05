@@ -18,4 +18,4 @@ Flashcard Tags: #network
 A layer in the OSI model that is responsible for delivering data between devices, and the speed & flow of data transfer.
 ?
 Transport Layer
-<!--SR:!2024-05-03,3,250-->
+<!--SR:!2024-05-11,7,250-->
