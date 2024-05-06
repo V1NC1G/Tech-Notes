@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/IP.md",
+                "file": "Atomic Notes/Network Interception Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,14 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Email Proxy Server.md",
+                "file": "Atomic Notes/IPSec VPN.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "encapsulation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Email Proxy Server.md",
+                "file": "Atomic Notes/Network Interception Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Email Proxy Server.md",
+                "file": "Atomic Notes/Network Interception Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Email Proxy Server.md"
+                "file": "Atomic Notes/Network Interception Attacks.md"
               }
             }
           },
@@ -226,22 +225,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "78a9e3f728e1d043",
+  "active": "1c322a726bf6387f",
   "lastOpenFiles": [
-    "Atomic Notes/Reverse Proxy Server.md",
-    "Atomic Notes/Email Proxy Server.md",
-    "Atomic Notes/Forward Proxy Server.md",
+    "Atomic Notes/Packet Sniffing.md",
+    "Atomic Notes/Network Interception Attacks.md",
+    "Atomic Notes/IP.md",
+    "Atomic Notes/WireGuard VPN.md",
+    "Atomic Notes/IPSec VPN.md",
+    "Atomic Notes/Site-to-Site VPN.md",
+    "Atomic Notes/Remote Access VPN.md",
+    "Atomic Notes/VPN.md",
     "Atomic Notes/Proxy Servers.md",
+    "Atomic Notes/Email Proxy Server.md",
+    "Atomic Notes/Reverse Proxy Server.md",
+    "Atomic Notes/Forward Proxy Server.md",
     "Atomic Notes/Subnetting.md",
     "Atomic Notes/CIDR.md",
     "Atomic Notes/Classful Addressing.md",
@@ -254,16 +261,8 @@
     "Atomic Notes/Internal Network.md",
     "Atomic Notes/Demilitarized Zone.md",
     "Atomic Notes/Security Zone.md",
-    "Atomic Notes/VPN.md",
     "README.md",
     "Career/Google Professional Statement Outline.md",
-    "Atomic Notes/TCP-IP Model.md",
-    "Atomic Notes/Asset Security.md",
-    "Templates/Scratch Note.md",
-    "Career/Checklist before applying for Cybersecurity jobs.md",
-    "Atomic Notes/Encapsulation.md",
-    "0 Roadmap/Cybersecurity Certification Roadmap.md",
-    "Atomic Notes/Next Generation Firewall.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",

@@ -22,4 +22,4 @@ What are the ethical principles in security?
 - Confidentiality
 - Privacy protections
 - Laws
-<!--SR:!2024-05-05,1,190-->
+<!--SR:!2024-05-07,1,170-->

@@ -50,17 +50,17 @@ Identify
 A core function of the NIST CSF that implements policies, procedures, training, and tools to mitigate cybersecurity risk.
 ?
 Protect
-<!--SR:!2024-05-06,2,223-->
+<!--SR:!2024-05-07,1,203-->
 
 A core function of the NIST CSF that identifies potential security incidents and improves monitoring capabilities to increase detection efficiency.
 ?
 Detect
-<!--SR:!2024-05-05,1,163-->
+<!--SR:!2024-05-07,1,143-->
 
 A core function of the NIST CSF that ensures proper procedure are used to handle security incidents and improve security processes.
 ?
 Respond
-<!--SR:!2024-05-05,1,130-->
+<!--SR:!2024-05-07,1,130-->
 
 A core function of the NIST CSF that is the process of returning affected systems back to normal operations.
 ?

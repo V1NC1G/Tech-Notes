@@ -35,7 +35,7 @@ Risk management strategies.
 - Avoidance
 - Transference
 - Mitigation
-<!--SR:!2024-05-05,1,130-->
+<!--SR:!2024-05-07,1,130-->
 
 The process of protecting an organization's assets by controlling security risks.
 ??

@@ -32,7 +32,7 @@ Flashcard Tags: #cybersecurity #framework
 What is CIA?
 ?
 A model that helps informs how organizations consider risk when setting up systems and security policies
-<!--SR:!2024-05-05,6,256-->
+<!--SR:!2024-05-20,14,256-->
 
 Key aspects that the CIA triad ensure.
 ?

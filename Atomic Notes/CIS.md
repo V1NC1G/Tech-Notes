@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #framework #control
 A non-profit organization that provides a set of controls that can be used to safeguard systems and networks from attacks.
 ??
 CIS
-<!--SR:!2024-05-12,13,270!2024-05-05,3,170-->
+<!--SR:!2024-05-12,13,270!2024-05-15,9,190-->

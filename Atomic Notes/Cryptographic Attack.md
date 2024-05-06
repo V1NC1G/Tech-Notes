@@ -23,4 +23,4 @@ Flashcard Tags: #cybersecurity #attacks
 Attack that affects secure forms of communication.
 ??
 Cryptographic Attack
-<!--SR:!2024-05-05,6,250!2024-05-09,10,288-->
+<!--SR:!2024-05-27,21,270!2024-05-09,10,288-->

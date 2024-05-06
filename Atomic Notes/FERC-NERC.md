@@ -20,4 +20,4 @@ Flashcard Tags: #cybersecurity #framework
 Regulation that applies to organizations that work with electricity or involved with the US and North American power grid.
 ??
 FERC-NERC
-<!--SR:!2024-05-06,8,250!2024-05-14,15,290-->
+<!--SR:!2024-06-01,26,270!2024-05-14,15,290-->

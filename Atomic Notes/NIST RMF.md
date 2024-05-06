@@ -70,12 +70,12 @@ What are the processes of NIST RMF?
 Process in the NIST RMF where essential activities are carried out to help the organization to prepare for any potential security vulnerabilities, risks, and breaches.
 ?
 Prepare
-<!--SR:!2024-05-06,7,250-->
+<!--SR:!2024-05-30,24,270-->
 
 Process in the NIST RMF that is used to develop risk management processes and tasks.
 ?
 Categorize
-<!--SR:!2024-05-05,1,150-->
+<!--SR:!2024-05-08,2,150-->
 
 Process in the NIST RMF where we choose, customize, and capture documentation of security controls that protect an organization.
 ?
@@ -85,12 +85,12 @@ Select
 Process in the NIST RMF where security and privacy plans are implemented for the organization.
 ?
 Implement
-<!--SR:!2024-05-06,7,246-->
+<!--SR:!2024-05-28,22,266-->
 
 Process in the NIST RMF where established controls are determined if those are implemented correctly.
 ?
 Assess
-<!--SR:!2024-05-06,2,226-->
+<!--SR:!2024-05-07,1,206-->
 
 Process in the NIST RMF that provides accountability for the security and privacy risk that may exist in an organization.
 ?

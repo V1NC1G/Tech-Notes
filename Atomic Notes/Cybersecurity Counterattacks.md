@@ -35,4 +35,4 @@ What are the conditions of the International Court of Justice for allowing to co
 2. A direct communication to the attacker to stop
 3. Does not escalate the situation
 4. Can be reversed
-<!--SR:!2024-05-06,7,250-->
+<!--SR:!2024-05-22,16,250-->
