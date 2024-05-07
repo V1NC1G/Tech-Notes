@@ -15,7 +15,7 @@ Not only can malicious actors inspect data but they can also alter it by inserti
 ---
 # Flashcards
 
-Flashcard Tags: #network 
+Flashcard Tags: #network #cybersecurity 
 
 Type of network attack that works by intercepting network traffic and stealing valuable information or by interfering transmission.
 ?
