@@ -4,16 +4,76 @@
     "type": "split",
     "children": [
       {
-        "id": "1d51f87f4bfd36ca",
+        "id": "bc34cf8c9ffc1bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "13b52c6bd77923f4",
+            "id": "1c322a726bf6387f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Backdoor Attacks.md",
+                "file": "Atomic Notes/ICMP Flood Attack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13953253ea316fbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/TCP-IP Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c0cb4e3b178c519c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career/Google Professional Statement Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d6127ad3689d599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Controlled Zone.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6940b19a7d1ce67d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Subnetting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78a9e3f728e1d043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/IPSec VPN.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "encapsulation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Backdoor Attacks.md",
+                "file": "Atomic Notes/ICMP Flood Attack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Backdoor Attacks.md",
+                "file": "Atomic Notes/ICMP Flood Attack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Backdoor Attacks.md"
+                "file": "Atomic Notes/ICMP Flood Attack.md"
               }
             }
           },
@@ -165,44 +225,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Review flashcards": false,
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "13b52c6bd77923f4",
+  "active": "1c322a726bf6387f",
   "lastOpenFiles": [
-    "Atomic Notes/Network Interception Attacks.md",
+    "Atomic Notes/ICMP.md",
+    "Atomic Notes/ICMP Flood Attack.md",
+    "Atomic Notes/SYN Flood Attack.md",
+    "Atomic Notes/Untitled.md",
+    "Atomic Notes/DDoS Attack.md",
+    "Atomic Notes/DoS Attack.md",
     "Atomic Notes/Backdoor Attacks.md",
-    "Atomic Notes/Email Proxy Server.md",
-    "Atomic Notes/Subnetting.md",
+    "Atomic Notes/Network Interception Attacks.md",
+    "Atomic Notes/Packet Sniffing.md",
+    "Atomic Notes/IP.md",
     "Atomic Notes/WireGuard VPN.md",
+    "Atomic Notes/IPSec VPN.md",
     "Atomic Notes/Site-to-Site VPN.md",
     "Atomic Notes/Remote Access VPN.md",
-    "Atomic Notes/IPSec VPN.md",
+    "Atomic Notes/VPN.md",
+    "Atomic Notes/Proxy Servers.md",
+    "Atomic Notes/Email Proxy Server.md",
     "Atomic Notes/Reverse Proxy Server.md",
     "Atomic Notes/Forward Proxy Server.md",
-    "Atomic Notes/Proxy Servers.md",
+    "Atomic Notes/Subnetting.md",
     "Atomic Notes/CIDR.md",
     "Atomic Notes/Classful Addressing.md",
     "Excalidraw/subnetting.excalidraw.md",
     "Atomic Notes/Network Segmentation.md",
     "Atomic Notes/Uncontrolled Zone.md",
     "Atomic Notes/Controlled Zone.md",
-    "Excalidraw/security-zones-diagram.excalidraw.md",
-    "Atomic Notes/Restricted Zone.md",
-    "Atomic Notes/Internal Network.md",
-    "Atomic Notes/Demilitarized Zone.md",
-    "Atomic Notes/Security Zone.md",
-    "Atomic Notes/VPN.md",
-    "README.md",
-    "Career/Google Professional Statement Outline.md",
-    "Atomic Notes/TCP-IP Model.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",
