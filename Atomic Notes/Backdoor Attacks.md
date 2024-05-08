@@ -20,3 +20,4 @@ Flashcard Tags: #network #cybersecurity
 A kind of attack that access a weakness that is intentionally put in an application for conducting troubleshooting or admin task, to install malware, steal private info, or changing security settings.
 ?
 Backdoor Attack
+<!--SR:!2024-05-12,4,270-->

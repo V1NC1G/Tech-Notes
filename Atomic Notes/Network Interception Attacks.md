@@ -20,3 +20,4 @@ Flashcard Tags: #network #cybersecurity
 Type of network attack that works by intercepting network traffic and stealing valuable information or by interfering transmission.
 ?
 Network Interception Attack
+<!--SR:!2024-05-09,1,230-->

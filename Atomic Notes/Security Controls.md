@@ -39,7 +39,7 @@ Flashcard Tags: #cybersecurity
 Safeguards designed to reduce specific security risks and is used with security frameworks to establish a strong security posture.
 ??
 Security Controls
-<!--SR:!2024-05-15,16,290!2024-05-07,5,230-->
+<!--SR:!2024-05-15,16,290!2024-05-23,15,250-->
 
 Security control types.
 ?
@@ -47,7 +47,7 @@ Security control types.
 - Corrective
 - Detective
 - Deterrent
-<!--SR:!2024-05-08,4,192-->
+<!--SR:!2024-05-18,10,212-->
 
 Security control categories
 ?

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/ICMP Flood Attack.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/ICMP Flood Attack.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/ICMP Flood Attack.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/ICMP Flood Attack.md"
+                "file": "README.md"
               }
             }
           },
@@ -237,8 +237,13 @@
   },
   "active": "1c322a726bf6387f",
   "lastOpenFiles": [
-    "Atomic Notes/ICMP.md",
+    "Atomic Notes/tcpdump.md",
+    "Atomic Notes/Network Protocol Analyzers.md",
+    "Files/tcp-dump-output.png",
+    "Files",
+    "Atomic Notes/Ping of Death.md",
     "Atomic Notes/ICMP Flood Attack.md",
+    "Atomic Notes/ICMP.md",
     "Atomic Notes/SYN Flood Attack.md",
     "Atomic Notes/Untitled.md",
     "Atomic Notes/DDoS Attack.md",
@@ -260,9 +265,6 @@
     "Atomic Notes/CIDR.md",
     "Atomic Notes/Classful Addressing.md",
     "Excalidraw/subnetting.excalidraw.md",
-    "Atomic Notes/Network Segmentation.md",
-    "Atomic Notes/Uncontrolled Zone.md",
-    "Atomic Notes/Controlled Zone.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",
@@ -274,7 +276,6 @@
     "CyBOK/Introductory Concepts/Introduction To CyBOK.pdf",
     "Career",
     "Cybersecurity/Cybersecurity Tools/SIEM",
-    "Cybersecurity/Cybersecurity Tools",
     "Untitled.canvas"
   ]
 }

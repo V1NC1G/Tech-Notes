@@ -25,7 +25,7 @@ Flashcard Tags: #cybersecurity
 It is the process of protecting an organization's network and computer systems.
 ?
 Defensive Security
-<!--SR:!2024-05-07,1,170-->
+<!--SR:!2024-05-10,2,190-->
 
 What are the two main task of defensive security?
 ?

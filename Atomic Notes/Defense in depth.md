@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity
 A security principle that an organization should have security controls that address risks and threats in different ways.
 ??
 Defense in depth
-<!--SR:!2024-05-09,9,250!2024-05-08,6,230-->
+<!--SR:!2024-05-09,9,250!2024-05-26,18,250-->

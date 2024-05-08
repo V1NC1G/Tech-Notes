@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #risk
 Asset protected by regulations or law that if compromised could severely damage an organization.
 ??
 high-risk asset
-<!--SR:!2024-05-15,16,290!2024-05-08,9,270-->
+<!--SR:!2024-05-15,16,290!2024-06-10,33,290-->

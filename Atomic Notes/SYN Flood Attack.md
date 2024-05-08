@@ -18,3 +18,4 @@ Flashcard Tags: #cybersecurity
 A type of DoS attack that simulates a TCP connection and floods a server with SYN packets.
 ?
 SYN Flood Attack
+<!--SR:!2024-05-12,4,270-->

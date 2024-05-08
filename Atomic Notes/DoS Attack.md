@@ -20,3 +20,4 @@ Flashcard Tags: #cybersecurity
 An attack that targets a network or server and floods it with network traffic.
 ?
 Denial of Service Attack (DoS Attack)
+<!--SR:!2024-05-12,4,270-->

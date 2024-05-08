@@ -24,4 +24,4 @@ Flashcard Tags: #cybersecurity
 A specific type of PII that falls under stricter handling guidelines.
 ??
 sensitive personally identifiable information
-<!--SR:!2024-05-08,10,270!2024-05-11,13,270-->
+<!--SR:!2024-06-18,41,290!2024-05-11,13,270-->

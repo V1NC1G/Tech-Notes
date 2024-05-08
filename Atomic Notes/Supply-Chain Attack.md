@@ -21,4 +21,4 @@ Flashcard Tags: #cybersecurity #attacks
 Attack that targets systems, applications, hardware, and/or software to locate vulnerabilities where malware can be deployed in a supply-chain.
 ??
 Supply-Chain Attack
-<!--SR:!2024-05-14,15,290!2024-05-08,10,250-->
+<!--SR:!2024-05-14,15,290!2024-06-15,38,270-->

@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #securitydomains
 Security domain that uses secure coding practices to ensure security is integrated into the software product.
 ??
 Software Development Security
-<!--SR:!2024-05-10,11,270!2024-05-08,10,250-->
+<!--SR:!2024-05-10,11,270!2024-06-12,35,270-->

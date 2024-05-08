@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #control
 A security control that verifies who someone or something is.
 ??
 Authentication
-<!--SR:!2024-05-09,10,270!2024-05-07,5,248-->
+<!--SR:!2024-05-09,10,270!2024-05-24,16,268-->

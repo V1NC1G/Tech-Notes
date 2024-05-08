@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #risk
 Asset that would not harm the organization if compromised.
 ??
 low-risk asset
-<!--SR:!2024-05-13,14,290!2024-05-07,9,250-->
+<!--SR:!2024-05-13,14,290!2024-06-08,31,270-->

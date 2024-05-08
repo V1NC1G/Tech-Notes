@@ -18,7 +18,7 @@ Flashcard Tags: #cybersecurity #tools
 An application that monitors system activity and alerts on possible intrusions.
 ??
 Intrusion Detection System
-<!--SR:!2024-05-10,11,270!2024-05-07,9,250-->
+<!--SR:!2024-05-10,11,270!2024-06-08,31,270-->
 
 What does IDS scans to make the detection process easier?
 ?

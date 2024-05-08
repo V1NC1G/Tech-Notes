@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity
 An organization to establish international standards related to technology, manufacturing, and management across borders.
 ??
 ISO
-<!--SR:!2024-05-14,15,290!2024-05-08,10,252-->
+<!--SR:!2024-05-14,15,290!2024-06-14,37,272-->

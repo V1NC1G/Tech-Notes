@@ -52,7 +52,7 @@ Confidentiality
 A part of the CIA triad that ensures that data is correct, authentic, and reliable.
 ?
 Integrity
-<!--SR:!2024-05-08,9,272-->
+<!--SR:!2024-06-10,33,292-->
 
 A part of the CIA triad that ensures that data is accessible to those who are authorized to access it.
 ?
