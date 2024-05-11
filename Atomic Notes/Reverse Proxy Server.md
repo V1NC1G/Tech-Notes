@@ -20,3 +20,4 @@ Flashcard Tags: #network
 Proxy server that regulates and restricts the internet's access to an internal server.
 ?
 Reverse Proxy Server
+<!--SR:!2024-05-15,4,270-->

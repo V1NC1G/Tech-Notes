@@ -1,4 +1,5 @@
 Tags: [[Network]] [[Cybersecurity]] [[Network Attacks]] [[Attacks]]
+
 # Network Interception Attacks
 
 **Network interception attacks** work by intercepting network traffic and stealing valuable information or interfering with the transmission in some way.
@@ -8,16 +9,19 @@ Tags: [[Network]] [[Cybersecurity]] [[Network Attacks]] [[Attacks]]
 Not only can malicious actors inspect data but they can also alter it by inserting malicious code.
 
 ---
+
 # References
 
 1. Google Cybersecurity Professional Certificate
 
 ---
+
 # Flashcards
 
-Flashcard Tags: #network #cybersecurity 
+Flashcard Tags: #network #cybersecurity
 
 Type of network attack that works by intercepting network traffic and stealing valuable information or by interfering transmission.
 ?
 Network Interception Attack
-<!--SR:!2024-05-09,1,230-->
+
+<!--SR:!2024-05-14,3,250-->

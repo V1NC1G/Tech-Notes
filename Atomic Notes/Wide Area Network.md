@@ -16,4 +16,4 @@ Flashcard Tags: #network
 A network that spans a large geographical area.
 ?
 WAN
-<!--SR:!2024-05-06,2,250-->
+<!--SR:!2024-05-20,9,270-->

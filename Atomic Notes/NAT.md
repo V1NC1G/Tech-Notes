@@ -24,4 +24,4 @@ Flashcard Tags: #network
 The process of replacing a source's private IP by a router with its public IP to communicate to the internet.
 ?
 Network Address Translation (NAT)
-<!--SR:!2024-05-06,2,230-->
+<!--SR:!2024-05-12,1,210-->

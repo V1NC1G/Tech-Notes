@@ -20,4 +20,4 @@ Flashcard Tags: #network
 A network access layer protocol used to translate the IP address that is found in data packets into the MAC address of the hardware device.
 ?
 Address Resolution Protocol (ARP)
-<!--SR:!2024-05-06,4,270-->
+<!--SR:!2024-05-13,2,250-->

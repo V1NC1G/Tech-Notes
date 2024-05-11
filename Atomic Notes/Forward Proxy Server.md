@@ -18,3 +18,4 @@ Flashcard Tags: #network
 Proxy server that regulates and restricts a person's access to the internet.
 ?
 Forward Proxy Server
+<!--SR:!2024-05-12,1,230-->

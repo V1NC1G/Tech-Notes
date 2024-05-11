@@ -23,4 +23,4 @@ Flashcard Tags: #network
 A class of firewall that provides more security than a stateful firewall and adds additional security functions such as deep packet inspection, intrusion protection, and threat intelligence.
 ?
 Next Generation Firewall (NGFW)
-<!--SR:!2024-05-07,3,250-->
+<!--SR:!2024-05-24,13,270-->

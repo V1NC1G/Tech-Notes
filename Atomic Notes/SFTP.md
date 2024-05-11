@@ -22,9 +22,9 @@ Flashcard Tags: #network
 A secure protocol used to transfer files from one device to another over a network.
 ?
 Secure File Transfer Protocol (SFTP)
-<!--SR:!2024-05-05,1,210-->
+<!--SR:!2024-05-14,3,230-->
 
 What typically is the port for SFTP and SSH?
 ?
 port 22
-<!--SR:!2024-05-06,4,270-->
+<!--SR:!2024-05-28,17,290-->

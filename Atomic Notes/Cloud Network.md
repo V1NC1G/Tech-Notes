@@ -16,4 +16,4 @@ Flashcard Tags: #cloud #network
 A collection of servers/computers that store resources and data in remote data centers that can be accessed via the internet.
 ??
 Cloud Network
-<!--SR:!2024-05-19,15,290!2024-05-09,5,230-->
+<!--SR:!2024-05-19,15,290!2024-05-29,18,250-->

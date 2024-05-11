@@ -25,14 +25,14 @@ Flashcard Tags: #network
 A protocol used on a network to configure devices and works with the router to assign unique IP address to each device.
 ?
 Dynamic Host Configuration Protocol (DHCP)
-<!--SR:!2024-05-05,1,210-->
+<!--SR:!2024-05-12,1,190-->
 
 UDP port where DHCP servers operate.
 ?
 port 67
-<!--SR:!2024-05-05,1,206-->
+<!--SR:!2024-05-12,1,186-->
 
 UDP port where DHCP client operate.
 ?
 port 68
-<!--SR:!2024-05-05,1,210-->
+<!--SR:!2024-05-12,1,190-->

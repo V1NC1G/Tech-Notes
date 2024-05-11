@@ -22,4 +22,4 @@ Flashcard Tags: #network
 A layer in the TCP/IP model responsible for delivering data between two systems.
 ?
 Transport Layer
-<!--SR:!2024-05-06,2,230-->
+<!--SR:!2024-05-20,9,250-->

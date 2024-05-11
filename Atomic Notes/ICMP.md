@@ -22,4 +22,4 @@ Flashcard Tags: #network
 Protocol that operates at the internet layer responsible for sharing error information and status updates of data packets.
 ?
 Internet Control Message Protocol (ICMP)
-<!--SR:!2024-05-05,3,250-->
+<!--SR:!2024-05-22,11,270-->

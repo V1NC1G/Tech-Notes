@@ -23,11 +23,11 @@ Flashcard Tags: #network
 A subnet that protects the internal network from the uncontrolled zone.
 ?
 Controlled zone
-<!--SR:!2024-05-05,1,230-->
+<!--SR:!2024-05-13,2,230-->
 
 What are the several types of networks within the control zone?
 ?
 - Demilitarized zone
 - Internal network
 - Restricted zone
-<!--SR:!2024-05-08,4,270-->
+<!--SR:!2024-05-25,14,290-->

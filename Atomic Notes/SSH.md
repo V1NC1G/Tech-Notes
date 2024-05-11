@@ -20,9 +20,9 @@ Flashcard Tags: #network
 Protocol used to create a secure connection with a remote system.
 ?
 Secure Shell Protocol (SSH)
-<!--SR:!2024-05-05,3,250-->
+<!--SR:!2024-05-22,11,270-->
 
 Port where SSH operates.
 ?
 port 22
-<!--SR:!2024-05-06,4,270-->
+<!--SR:!2024-05-25,14,290-->

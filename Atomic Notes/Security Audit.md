@@ -26,7 +26,7 @@ Flashcard Tags: #cybersecurity
 A review of an organization's security controls, policies, and procedures agains a set of expectations.
 ?
 Security Audit
-<!--SR:!2024-05-10,10,270-->
+<!--SR:!2024-06-08,28,270-->
 
 Two types of security audits.
 ?

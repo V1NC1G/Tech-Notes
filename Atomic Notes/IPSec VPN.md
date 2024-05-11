@@ -18,3 +18,4 @@ Flashcard Tags: #network
 VPN protocol used by many VPN providers since it is one of the earlier VPN protocols and many OS supports this VPN protocol.
 ?
 IPSec VPN
+<!--SR:!2024-05-12,1,230-->

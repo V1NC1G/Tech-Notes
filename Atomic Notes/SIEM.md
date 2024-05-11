@@ -37,4 +37,4 @@ Security Information and Event Management
 Tools that collect and analyzes log data to monitor critical activities in an organization.
 ??
 SIEM Tools
-<!--SR:!2024-05-09,10,288!2024-05-26,20,250-->
+<!--SR:!2024-06-21,41,308!2024-05-26,20,250-->

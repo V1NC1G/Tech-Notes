@@ -18,4 +18,4 @@ Flashcard Tags: #network
 A set of standards that define communication for wireless LANs.
 ?
 IEEE 802.11
-<!--SR:!2024-05-06,4,270-->
+<!--SR:!2024-05-22,11,270-->

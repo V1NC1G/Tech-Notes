@@ -21,4 +21,4 @@ SOAR
 What does SOAR stand for?
 ?
 Security Orchestration, Automation, and Response
-<!--SR:!2024-05-11,7,250-->
+<!--SR:!2024-06-05,25,270-->

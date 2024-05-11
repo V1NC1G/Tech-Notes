@@ -22,3 +22,4 @@ Flashcard Tags: #network
 A high-speed VPN protocol with advanced encryption and is used for processes that require fast download speed.
 ?
 WireGuard VPN
+<!--SR:!2024-05-15,4,270-->

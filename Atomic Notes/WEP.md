@@ -21,4 +21,4 @@ Flashcard Tags: #network
 A wireless security protocol designed to provide users with the same level of privacy on wireless network connections.
 ?
 Wired Equivalent Privacy (WEP)
-<!--SR:!2024-05-05,3,250-->
+<!--SR:!2024-05-13,2,230-->

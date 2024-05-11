@@ -3,6 +3,10 @@ Tags: [[Network]] [[Network Protocol Analyzers]] [[Cybersecurity]]
 
 The practice of capturing and inspecting data packets across a network.
 
+Packet sniffing can either be:
+- [[Passive Packet Sniffing|Passive]]
+- [[Active Packet Sniffing|Active]]
+
 ---
 # References
 

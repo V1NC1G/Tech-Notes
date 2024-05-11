@@ -16,4 +16,4 @@ Flashcard Tags: #cybersecurity #securitydomains
 Security domain that manages and secure physical and wireless communications.
 ??
 Communication and Network Security
-<!--SR:!2024-05-11,12,270!2024-05-15,11,230-->
+<!--SR:!2024-06-29,49,290!2024-05-15,11,230-->

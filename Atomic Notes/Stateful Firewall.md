@@ -16,4 +16,4 @@ Flashcard Tags: #network
 A class of firewall that keeps track of information passing through it and proactively filters out threats.
 ?
 Stateful Firewall
-<!--SR:!2024-05-08,4,270-->
+<!--SR:!2024-05-13,2,250-->

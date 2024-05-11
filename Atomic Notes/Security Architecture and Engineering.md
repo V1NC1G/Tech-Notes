@@ -28,4 +28,4 @@ Flashcard Tags: #cybersecurity #securitydomains
 Security domain that optimizes data security by ensuring effective tools, systems, and processes are in place.
 ??
 Security Architecture and Engineering
-<!--SR:!2024-05-11,13,288!2024-05-27,21,270-->
+<!--SR:!2024-07-06,56,308!2024-05-27,21,270-->

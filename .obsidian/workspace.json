@@ -4,76 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc34cf8c9ffc1bd5",
+        "id": "1d51f87f4bfd36ca",
         "type": "tabs",
         "children": [
           {
-            "id": "1c322a726bf6387f",
+            "id": "13b52c6bd77923f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13953253ea316fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/TCP-IP Model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0cb4e3b178c519c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career/Google Professional Statement Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d6127ad3689d599",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/Controlled Zone.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6940b19a7d1ce67d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/Subnetting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78a9e3f728e1d043",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/IPSec VPN.md",
+                "file": "Atomic Notes/Passive Packet Sniffing.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "encapsulation",
+                "query": "prefix",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Atomic Notes/Passive Packet Sniffing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Atomic Notes/Passive Packet Sniffing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Atomic Notes/Passive Packet Sniffing.md"
               }
             }
           },
@@ -225,46 +165,44 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "omnisearch:Omnisearch": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "1c322a726bf6387f",
+  "active": "13b52c6bd77923f4",
   "lastOpenFiles": [
-    "Atomic Notes/tcpdump.md",
-    "Atomic Notes/Network Protocol Analyzers.md",
-    "Files/tcp-dump-output.png",
-    "Files",
-    "Atomic Notes/Ping of Death.md",
-    "Atomic Notes/ICMP Flood Attack.md",
-    "Atomic Notes/ICMP.md",
-    "Atomic Notes/SYN Flood Attack.md",
-    "Atomic Notes/Untitled.md",
-    "Atomic Notes/DDoS Attack.md",
-    "Atomic Notes/DoS Attack.md",
-    "Atomic Notes/Backdoor Attacks.md",
-    "Atomic Notes/Network Interception Attacks.md",
     "Atomic Notes/Packet Sniffing.md",
-    "Atomic Notes/IP.md",
+    "Atomic Notes/Passive Packet Sniffing.md",
+    "Atomic Notes/Data Packet.md",
+    "Career/Google Professional Statement Outline.md",
+    "Atomic Notes/CIDR.md",
+    "Atomic Notes/Backdoor Attacks.md",
+    "Atomic Notes/SYN Flood Attack.md",
+    "Atomic Notes/ICMP Flood Attack.md",
+    "Atomic Notes/DoS Attack.md",
+    "Atomic Notes/DDoS Attack.md",
+    "Atomic Notes/Network Interception Attacks.md",
+    "Atomic Notes/Email Proxy Server.md",
+    "Atomic Notes/Subnetting.md",
     "Atomic Notes/WireGuard VPN.md",
-    "Atomic Notes/IPSec VPN.md",
     "Atomic Notes/Site-to-Site VPN.md",
     "Atomic Notes/Remote Access VPN.md",
-    "Atomic Notes/VPN.md",
-    "Atomic Notes/Proxy Servers.md",
-    "Atomic Notes/Email Proxy Server.md",
+    "Atomic Notes/IPSec VPN.md",
     "Atomic Notes/Reverse Proxy Server.md",
     "Atomic Notes/Forward Proxy Server.md",
-    "Atomic Notes/Subnetting.md",
-    "Atomic Notes/CIDR.md",
+    "Atomic Notes/Proxy Servers.md",
     "Atomic Notes/Classful Addressing.md",
     "Excalidraw/subnetting.excalidraw.md",
+    "Atomic Notes/Network Segmentation.md",
+    "Atomic Notes/Uncontrolled Zone.md",
+    "Atomic Notes/Controlled Zone.md",
+    "Excalidraw/security-zones-diagram.excalidraw.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",
@@ -276,6 +214,7 @@
     "CyBOK/Introductory Concepts/Introduction To CyBOK.pdf",
     "Career",
     "Cybersecurity/Cybersecurity Tools/SIEM",
+    "Cybersecurity/Cybersecurity Tools",
     "Untitled.canvas"
   ]
 }

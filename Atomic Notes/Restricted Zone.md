@@ -16,4 +16,4 @@ Flashcard Tags: #network
 An area in the controlled zone where it protects highly confidential information that is only accessible to employees with certain privileges.
 ?
 Restricted Zone
-<!--SR:!2024-05-08,4,270-->
+<!--SR:!2024-05-26,15,290-->

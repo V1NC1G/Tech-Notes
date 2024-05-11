@@ -16,4 +16,4 @@ Flashcard Tags: #network
 A security technique that divides the network into segments.
 ?
 Network Segmentation
-<!--SR:!2024-05-05,1,230-->
+<!--SR:!2024-05-12,1,210-->

@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #framework
 An international security standard ensuring that credit card information is processed in a secure environment.
 ??
 PCI DSS
-<!--SR:!2024-05-11,12,270!2024-05-11,12,270-->
+<!--SR:!2024-06-25,45,290!2024-06-26,46,290-->

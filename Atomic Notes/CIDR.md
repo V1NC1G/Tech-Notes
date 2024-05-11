@@ -30,9 +30,9 @@ Flashcard Tags: #network
 A method of assigning subnet masks to IP addresses to create a subnet.
 ?
 Classless Inter-Domain Routing (CIDR)
-<!--SR:!2024-05-05,1,230-->
+<!--SR:!2024-05-12,1,210-->
 
 What do you call the number preceded by a slash at the end of an IP address?
 ?
 IP network prefix
-<!--SR:!2024-05-05,1,230-->
+<!--SR:!2024-05-14,3,250-->

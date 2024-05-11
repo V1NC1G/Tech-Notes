@@ -21,4 +21,4 @@ Flashcard Tags: #network
 Network protocols that ensure data is sent and received securely across a network.
 ?
 Security Protocols
-<!--SR:!2024-05-05,1,210-->
+<!--SR:!2024-05-12,1,190-->

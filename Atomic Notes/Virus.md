@@ -18,4 +18,4 @@ Flashcard Tags: #cybersecurity #malware
 Malicious code written to interfere with computer operations and cause damage to data and software.
 ??
 Virus
-<!--SR:!2024-05-10,11,270!2024-05-14,12,248-->
+<!--SR:!2024-06-20,40,290!2024-05-14,12,248-->

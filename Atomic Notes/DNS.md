@@ -22,9 +22,9 @@ Flashcard Tags: #network
 A network protocol that translates internet domain names into IP addresses.
 ?
 Domain Name Server (DNS)
-<!--SR:!2024-05-05,3,250-->
+<!--SR:!2024-05-22,11,270-->
 
 DNS port where it uses UDP.
 ?
 port 53
-<!--SR:!2024-05-05,1,210-->
+<!--SR:!2024-05-14,3,230-->

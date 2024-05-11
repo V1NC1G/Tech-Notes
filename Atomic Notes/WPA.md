@@ -20,4 +20,4 @@ Flashcard Tags: #network
 A wireless security protocol for devices to connect to the internet and an improvement to WEP.
 ?
 WiFi Protected Access (WPA)
-<!--SR:!2024-05-06,4,270-->
+<!--SR:!2024-05-27,16,290-->

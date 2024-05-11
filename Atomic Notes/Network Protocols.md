@@ -21,4 +21,4 @@ Flashcard Tags: #network
 A set of rules used by two or more devices on a network to describe the order of delivery and the structure of data.
 ?
 Network Protocols
-<!--SR:!2024-05-05,3,250-->
+<!--SR:!2024-05-13,2,230-->

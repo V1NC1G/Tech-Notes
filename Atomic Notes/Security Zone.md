@@ -22,4 +22,4 @@ Flashcard Tags: #network
 A segment of a network that protects the internal network from the internet.
 ?
 Security Zone
-<!--SR:!2024-05-05,1,230-->
+<!--SR:!2024-05-13,2,230-->

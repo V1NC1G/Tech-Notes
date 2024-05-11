@@ -19,4 +19,4 @@ Flashcard Tags: #network
 WPA version that addresses authentication handshake vulnerability to KRACK attacks, uses SAE, and increased encryption by using 128 bit encryption.
 ?
 WPA3
-<!--SR:!2024-05-06,4,270-->
+<!--SR:!2024-05-26,15,290-->

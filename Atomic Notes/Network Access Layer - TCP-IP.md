@@ -18,4 +18,4 @@ Flashcard Tags: #network
 A layer in the TCP/IP model that deals with the creation of data packets and their transmission across a network.
 ?
 Network Access Layer
-<!--SR:!2024-05-06,2,230-->
+<!--SR:!2024-05-12,1,210-->
