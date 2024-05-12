@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attack]]
+Tags: [[Cybersecurity]] [[Attacks]]
 
 # DDoS Attack
 

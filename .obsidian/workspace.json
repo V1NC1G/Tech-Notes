@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Passive Packet Sniffing.md",
+                "file": "Atomic Notes/IP Spoofing.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "2b8c29b14554367d",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Passive Packet Sniffing.md",
+                "file": "Atomic Notes/IP Spoofing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Passive Packet Sniffing.md",
+                "file": "Atomic Notes/IP Spoofing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Passive Packet Sniffing.md"
+                "file": "Atomic Notes/IP Spoofing.md"
               }
             }
           },
@@ -177,16 +178,26 @@
   },
   "active": "13b52c6bd77923f4",
   "lastOpenFiles": [
-    "Atomic Notes/Packet Sniffing.md",
+    "Atomic Notes/Smurf Attack.md",
+    "Atomic Notes/Replay Attack.md",
+    "Atomic Notes/On-Path Attack.md",
+    "Atomic Notes/IP Spoofing.md",
+    "Atomic Notes/DDoS Attack.md",
+    "Atomic Notes/ICMP Flood Attack.md",
+    "Atomic Notes/Ping of Death.md",
+    "Atomic Notes/Active Packet Sniffing.md",
     "Atomic Notes/Passive Packet Sniffing.md",
+    "Atomic Notes/Attack.md",
+    "Atomic Notes/Password Attack.md",
+    "Atomic Notes/Packet Sniffing.md",
+    "Atomic Notes/tcpdump.md",
+    "Files/tcp-dump-output.png",
     "Atomic Notes/Data Packet.md",
     "Career/Google Professional Statement Outline.md",
     "Atomic Notes/CIDR.md",
     "Atomic Notes/Backdoor Attacks.md",
     "Atomic Notes/SYN Flood Attack.md",
-    "Atomic Notes/ICMP Flood Attack.md",
     "Atomic Notes/DoS Attack.md",
-    "Atomic Notes/DDoS Attack.md",
     "Atomic Notes/Network Interception Attacks.md",
     "Atomic Notes/Email Proxy Server.md",
     "Atomic Notes/Subnetting.md",
@@ -194,15 +205,6 @@
     "Atomic Notes/Site-to-Site VPN.md",
     "Atomic Notes/Remote Access VPN.md",
     "Atomic Notes/IPSec VPN.md",
-    "Atomic Notes/Reverse Proxy Server.md",
-    "Atomic Notes/Forward Proxy Server.md",
-    "Atomic Notes/Proxy Servers.md",
-    "Atomic Notes/Classful Addressing.md",
-    "Excalidraw/subnetting.excalidraw.md",
-    "Atomic Notes/Network Segmentation.md",
-    "Atomic Notes/Uncontrolled Zone.md",
-    "Atomic Notes/Controlled Zone.md",
-    "Excalidraw/security-zones-diagram.excalidraw.md",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
     "Portfolio",

@@ -7,6 +7,11 @@ Packet sniffing can either be:
 - [[Passive Packet Sniffing|Passive]]
 - [[Active Packet Sniffing|Active]]
 
+There are ways to protect against **malicious** packet sniffing which can be:
+- Using a [[VPN]]
+- Websites being used is using [[HTTPS]]
+- Avoid using unprotected WiFi
+
 ---
 # References
 
