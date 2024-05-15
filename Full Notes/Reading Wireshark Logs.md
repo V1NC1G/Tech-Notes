@@ -13,11 +13,11 @@ This indicates that 47 messages were sent and received by the web server in the 
 
 ## Source and destination IP addresses
 
-| **Source**        | **Destination**   |
-| ------------- | ------------- |
-| 198.51.100.23 | 192.0.2.1     |
-| 192.0.2.1     | 198.51.100.23 |
-| 198.51.100.23 | 192.0.2.1     |
+| **Source**    | **Destination** |
+| ------------- | --------------- |
+| 198.51.100.23 | 192.0.2.1       |
+| 192.0.2.1     | 198.51.100.23   |
+| 198.51.100.23 | 192.0.2.1       |
 
 The source and destination columns contain the source IP address of the machine that is sending a packet and the intended destination IP address of the packet.
 
