@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Dictionary Attacks.md",
+                "file": "Full Notes/Reading tcpdump Logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Dictionary Attacks.md",
+                "file": "Full Notes/Reading tcpdump Logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Dictionary Attacks.md",
+                "file": "Full Notes/Reading tcpdump Logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Dictionary Attacks.md"
+                "file": "Full Notes/Reading tcpdump Logs.md"
               }
             }
           },
@@ -190,8 +190,11 @@
   },
   "active": "7ba55cbcf5c02e24",
   "lastOpenFiles": [
-    "Atomic Notes/Simple Brute Force Attacks.md",
+    "Full Notes/Reading Wireshark Logs.md",
+    "Full Notes/Reading tcpdump Logs.md",
+    "Atomic Notes/Salting and Hashing.md",
     "Atomic Notes/Dictionary Attacks.md",
+    "Atomic Notes/Simple Brute Force Attacks.md",
     "Atomic Notes/Brute Force Attacks.md",
     "Atomic Notes/Security Hardening.md",
     "Atomic Notes/Patch Updates.md",
@@ -204,7 +207,6 @@
     "Atomic Notes/Active Packet Sniffing.md",
     "Atomic Notes/Hardware and Software Disposal.md",
     "Atomic Notes/IP Spoofing.md",
-    "Full Notes/Reading Wireshark Logs.md",
     "Atomic Notes/IP Address.md",
     "Full Notes",
     "Excalidraw/ip-address-structure.excalidraw.md",
@@ -215,8 +217,6 @@
     "Atomic Notes/ICMP Flood Attack.md",
     "Atomic Notes/Ping of Death.md",
     "Atomic Notes/Attack.md",
-    "Atomic Notes/Password Attack.md",
-    "Atomic Notes/tcpdump.md",
     "Files/tcp-dump-output.png",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
