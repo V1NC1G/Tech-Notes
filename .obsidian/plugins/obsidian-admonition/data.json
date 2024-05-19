@@ -1,5 +1,19 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "atom": {
+      "type": "atom",
+      "color": "5, 151, 214",
+      "icon": {
+        "name": "atom",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Atomic Note",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": false
+    }
+  },
   "syntaxHighlight": false,
   "copyButton": false,
   "version": "10.2.0",
@@ -13,7 +27,7 @@
     "admonitions": true,
     "icons": true,
     "other": true,
-    "advanced": false
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,

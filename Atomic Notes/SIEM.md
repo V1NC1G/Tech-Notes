@@ -3,15 +3,14 @@ Tags: [[Cybersecurity]] [[Tools]]
 
 **Security Information and Event Management**
 
-SIEM tools are applications that collect and analyzes log data to monitor critical activities in an organization.
+> [!atom] 
+> SIEM tools are applications that collect and analyzes log data to monitor critical activities in an organization.
 
 Collects real-time or instant information and allow analysts to identify potential breaches as they happen.
 
 SIEM tools reduce the amount an analyst must review by providing alerts for specific types of threats, risks, and vulnerabilities.
 
 Provide a series of dashboards that visually organize data into categories to allow users to select the data they want to analyze.
-
->[!summary] SIEM tools are applications that collects, analyzes, give alerts, and visually organize data for analysts to monitor critical activities in an organization.
 
 ## Commonly used SIEM tools
 

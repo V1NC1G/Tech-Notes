@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/IP Address.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ba55cbcf5c02e24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Full Notes/Reading tcpdump Logs.md",
+                "file": "Atomic Notes/TCP Flag Codes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full Notes/Reading tcpdump Logs.md",
+                "file": "Atomic Notes/TCP Flag Codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full Notes/Reading tcpdump Logs.md",
+                "file": "Atomic Notes/TCP Flag Codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full Notes/Reading tcpdump Logs.md"
+                "file": "Atomic Notes/TCP Flag Codes.md"
               }
             }
           },
@@ -188,35 +175,35 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "7ba55cbcf5c02e24",
+  "active": "13b52c6bd77923f4",
   "lastOpenFiles": [
-    "Full Notes/Reading Wireshark Logs.md",
-    "Full Notes/Reading tcpdump Logs.md",
-    "Atomic Notes/Salting and Hashing.md",
-    "Atomic Notes/Dictionary Attacks.md",
-    "Atomic Notes/Simple Brute Force Attacks.md",
-    "Atomic Notes/Brute Force Attacks.md",
-    "Atomic Notes/Security Hardening.md",
-    "Atomic Notes/Patch Updates.md",
+    "Atomic Notes/SIEM.md",
+    "Atomic Notes/Network Log Analysis.md",
+    "Templates/Notes Template.md",
+    "Templates/Flashcard Template.md",
+    "Atomic Notes/TCP.md",
+    "Atomic Notes/Network Hardening.md",
     "Atomic Notes/OS Hardening.md",
+    "Full Notes/Reading tcpdump Logs.md",
+    "Atomic Notes/TCP Flag Codes.md",
+    "Full Notes/How to Read a Wireshark Log.md",
+    "Atomic Notes/Simple Brute Force Attacks.md",
+    "Atomic Notes/Security Hardening.md",
+    "Atomic Notes/Salting and Hashing.md",
+    "Atomic Notes/Patch Updates.md",
+    "Atomic Notes/Dictionary Attacks.md",
+    "Atomic Notes/Brute Force Attacks.md",
     "Atomic Notes/Baseline Configuration.md",
-    "Atomic Notes/Smurf Attack.md",
-    "Atomic Notes/Penetration Testing.md",
-    "Atomic Notes/Passive Packet Sniffing.md",
-    "Atomic Notes/Packet Sniffing.md",
-    "Atomic Notes/Active Packet Sniffing.md",
-    "Atomic Notes/Hardware and Software Disposal.md",
-    "Atomic Notes/IP Spoofing.md",
-    "Atomic Notes/IP Address.md",
-    "Full Notes",
+    "Full Notes/Reading Wireshark Logs.md",
     "Excalidraw/ip-address-structure.excalidraw.md",
-    "Atomic Notes/Network.md",
     "Atomic Notes/On-Path Attack.md",
+    "Full Notes",
+    "Atomic Notes/DoS Attack.md",
+    "Atomic Notes/IP Spoofing.md",
+    "Atomic Notes/Smurf Attack.md",
     "Atomic Notes/Replay Attack.md",
     "Atomic Notes/DDoS Attack.md",
     "Atomic Notes/ICMP Flood Attack.md",
-    "Atomic Notes/Ping of Death.md",
-    "Atomic Notes/Attack.md",
     "Files/tcp-dump-output.png",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",
