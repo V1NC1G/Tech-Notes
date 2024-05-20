@@ -2,7 +2,7 @@ Tags: [[Cybersecurity]] [[Network]]
 # Network Hardening
 
 Focuses on network-related security hardening like:
-- Port filtering
+- [[Port Filtering]]
 - Network access privilege
 - Encryption
 
