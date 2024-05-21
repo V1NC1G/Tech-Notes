@@ -25,6 +25,4 @@ A proxy server uses **temporary memory** that store data regularly requested by 
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Servers that fulfill the requests of a client by forwarding them on to other servers.
+Flashcard Tags: 

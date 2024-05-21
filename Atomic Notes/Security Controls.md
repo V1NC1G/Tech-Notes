@@ -37,27 +37,4 @@ Safeguards designed to reduce specific security risks and is used with [[Securit
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-Safeguards designed to reduce specific security risks and is used with security frameworks to establish a strong security posture.
-??
-Security Controls
-
-<!--SR:!2024-05-15,16,290!2024-05-26,15,250-->
-
-Security control types.
-?
-
-- Preventative
-- Corrective
-- Detective
-- Deterrent
-<!--SR:!2024-05-22,11,212-->
-
-Security control categories
-?
-
-- Administrative
-- Technical
-- Physical
-<!--SR:!2024-05-16,14,290-->
+Flashcard Tags: 

@@ -26,14 +26,4 @@ Provide a series of dashboards that visually organize data into categories to al
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #tools
-
-What does SIEM stand for?
-?
-Security Information and Event Management
-<!--SR:!2024-05-12,13,270-->
-
-Tools that collect and analyzes log data to monitor critical activities in an organization.
-??
-SIEM Tools
-<!--SR:!2024-06-21,41,308!2024-05-26,20,250-->
+Flashcard Tags: 

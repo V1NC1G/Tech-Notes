@@ -17,9 +17,4 @@ An organization's network is classified into two types of security zones:
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A segment of a network that protects the internal network from the internet.
-?
-Security Zone
-<!--SR:!2024-05-13,2,230-->
+Flashcard Tags: 

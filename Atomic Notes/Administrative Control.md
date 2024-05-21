@@ -12,9 +12,4 @@ Tags: [[Cybersecurity]] [[Security Controls]]
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Security control that is related to the human component of cybersecurity.
-?
-Administrative control
-<!--SR:!2024-05-12,10,270-->
+Flashcard Tags: 

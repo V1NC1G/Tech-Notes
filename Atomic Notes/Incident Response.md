@@ -29,20 +29,4 @@ The major phases of an incident response process (which can be found in an incid
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-The methodology that is followed when an incident occurs.
-?
-Incident Response
-
-<!--SR:!2024-05-20,16,290-->
-
-What are the major phases of an incident response process?
-?
-
-- Preparation
-- Detection and Analysis
-- Containment, Eradication, and Recovery
-- Post-Incident Activity
-- Coordination
-<!--SR:!2024-05-12,1,190-->
+Flashcard Tags: 

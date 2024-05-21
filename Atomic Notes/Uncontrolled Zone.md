@@ -11,9 +11,4 @@ Any network outside the organization's control.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Any network outside the organization's control.
-?
-Uncontrolled Zone
-<!--SR:!2024-05-13,2,230-->
+Flashcard Tags: 

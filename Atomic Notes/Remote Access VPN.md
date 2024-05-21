@@ -15,9 +15,4 @@ The connection between the user and the remote access VPN is established through
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A type of VPN connection used by individuals to establish a connection between a personal device and a VPN server and is established through the internet.
-?
-Remote access VPN
-<!--SR:!2024-05-12,1,230-->
+Flashcard Tags: 

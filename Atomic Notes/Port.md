@@ -34,19 +34,4 @@ A software-based location that organizes the sending and receiving of data betwe
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A software-based location that organizes the sending and receiving of data between devices on a network.
-?
-Port
-<!--SR:!2024-05-20,16,290-->
-
-Email port number.
-?
-port 25
-<!--SR:!2024-05-27,16,292-->
-
-Large file transfers port number.
-?
-port 20
-<!--SR:!2024-05-19,8,252-->
+Flashcard Tags: 

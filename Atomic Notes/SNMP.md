@@ -20,9 +20,4 @@ Occurs at the [[Application Layer - OSI|application layer]].
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A network protocol used for monitoring and managing devices on a network.
-?
-Simple Network Management Protocol (SNMP)
-<!--SR:!2024-05-12,1,190-->
+Flashcard Tags: 

@@ -19,19 +19,4 @@ Uses [[TCP]]/[[UDP]] port 25 for unencrypted emails and is used by high-volume s
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Protocol that is used to transmit and route email from the sender to the recipient's address.
-?
-Simple Mail Transfer Protocol (SMTP)
-<!--SR:!2024-05-13,2,230-->
-
-SMTP port for unencrypted emails.
-?
-port 25
-<!--SR:!2024-05-12,1,190-->
-
-SMTP port for encrypted emails.
-?
-port 587
-<!--SR:!2024-05-12,1,190-->
+Flashcard Tags: 

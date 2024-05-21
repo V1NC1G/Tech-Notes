@@ -13,9 +13,4 @@ This is to reduce the amount of damage a breach could cause.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-The principle of making sure that users have the least amount of access required to perform their everyday task.
-??
-Principle of least privilege
-<!--SR:!2024-05-16,14,290!2024-06-16,36,290-->
+Flashcard Tags: 

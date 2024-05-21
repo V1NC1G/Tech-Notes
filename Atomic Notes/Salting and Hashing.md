@@ -13,12 +13,4 @@ Tags: [[Cybersecurity]] [[Prevention Measures]]
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-A prevention measure process that converts information to a unique value that can be used to determine its integrity.
-?
-Hashing
-
-The process of adding random characters to hashed passwords which in turn increases the complexity of hash values.
-?
-Salting
+Flashcard Tags: 

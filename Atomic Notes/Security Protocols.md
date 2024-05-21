@@ -16,9 +16,4 @@ Uses encryption algorithms to protect data in transit.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Network protocols that ensure data is sent and received securely across a network.
-?
-Security Protocols
-<!--SR:!2024-05-12,1,190-->
+Flashcard Tags: 

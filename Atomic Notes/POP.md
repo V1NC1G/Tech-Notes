@@ -24,19 +24,4 @@ Encrypted emails use [[SSL]]/[[TLS]] over [[TCP]]/[[UDP]] port 995.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-An application layer protocol used to manage and retrieve email from a mail server.
-?
-Post Office Protocol (POP)
-<!--SR:!2024-05-17,6,230-->
-
-Unencrypted plain text authentication port for POP.
-?
-port 110
-<!--SR:!2024-05-12,1,190-->
-
-Encrypted emails port for POP.
-?
-port 995
-<!--SR:!2024-05-12,1,190-->
+Flashcard Tags: 

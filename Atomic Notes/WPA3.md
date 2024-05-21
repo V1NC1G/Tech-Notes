@@ -14,9 +14,4 @@ Tags: [[Network]] [[Network Protocols]] [[Wireless Protocols]]
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-WPA version that addresses authentication handshake vulnerability to KRACK attacks, uses SAE, and increased encryption by using 128 bit encryption.
-?
-WPA3
-<!--SR:!2024-05-26,15,290-->
+Flashcard Tags: 

@@ -15,9 +15,4 @@ Unlike a [[Stateful Firewall|stateful firewall]], a stateless firewall does not 
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A class of firewall that operates based on predefined rules and does not keep track of information from data packets.
-?
-Stateless Firewall
-<!--SR:!2024-05-28,17,290-->
+Flashcard Tags: 

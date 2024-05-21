@@ -11,9 +11,4 @@ A network device that broadcast information to every device on the network.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A network device that broadcast information to every device on the network.
-?
-Hub
-<!--SR:!2024-05-19,15,290-->
+Flashcard Tags: 

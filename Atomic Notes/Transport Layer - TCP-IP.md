@@ -17,9 +17,4 @@ Activities of this layer includes *error control* which ensures data is flowing 
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A layer in the TCP/IP model responsible for delivering data between two systems.
-?
-Transport Layer
-<!--SR:!2024-05-20,9,250-->
+Flashcard Tags: 

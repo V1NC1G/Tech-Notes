@@ -11,9 +11,4 @@ Record of events related to services such as websites, emails, and file shares. 
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Record of events related to services and actions such as emails and login requests.
-?
-Server Logs
-<!--SR:!2024-05-18,14,290-->
+Flashcard Tags: 

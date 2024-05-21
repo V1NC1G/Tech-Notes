@@ -30,8 +30,4 @@ Some types of hardening procedures to increase security and fix vulnerabilities 
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-The process of strengthening a system to reduce its vulnerability and attack surface.
-?
-Security Hardening
+Flashcard Tags: 

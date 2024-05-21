@@ -15,9 +15,4 @@ Threat actors motivated by a political agenda and abuse digital technology to ac
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attackers #threat 
-
-Threat actors that are motivated by a political agenda and abuse digital technology.
-??
-hacktivists
-<!--SR:!2024-05-15,16,290!2024-05-14,15,292-->
+Flashcard Tags: 

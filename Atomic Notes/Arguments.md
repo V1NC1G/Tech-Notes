@@ -19,9 +19,4 @@ foo("test")
 ---
 # Flashcards
 
-Flashcard Tags: #programming
-
-Values passed to a function.
-??
-Arguments
-<!--SR:!2024-05-14,15,290!2024-05-15,16,290-->
+Flashcard Tags: 

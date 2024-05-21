@@ -13,8 +13,4 @@ Also referred to as **meddler-in-the-middle attack** because the hacker is hidin
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #network 
-
-An attack where an attacker places themselves in the middle of an authorized connection and intercepts or alters the data in transit.
-?
-On-Path Attack
+Flashcard Tags: 

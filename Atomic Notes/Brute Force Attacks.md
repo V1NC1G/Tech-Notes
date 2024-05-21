@@ -15,8 +15,4 @@ Different types of brute force attacks that malicious actors used to guess passw
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-An attack that uses trial-and-error process of discovering private information.
-?
-brute force attacks
+Flashcard Tags: 

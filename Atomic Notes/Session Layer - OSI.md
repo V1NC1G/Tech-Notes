@@ -19,9 +19,4 @@ Responsible for activities such as:
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-The layer in the OSI model that is responsible for keeping sessions open when data is being transferred and terminating the session when the transmission is complete.
-?
-Session Layer
-<!--SR:!2024-05-18,14,290-->
+Flashcard Tags: 

@@ -14,14 +14,4 @@ Organization's ability to manage its defense of critical assets and data and rea
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Organization's ability to manage its defense of critical assets and data and react to change.
-??
-Security Posture
-<!--SR:!2024-06-02,27,270!2024-06-01,21,230-->
-
-What does a stronger security posture entail?
-?
-Lower risk for the organization
-<!--SR:!2024-05-12,13,270-->
+Flashcard Tags: 

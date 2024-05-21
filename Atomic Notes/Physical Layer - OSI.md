@@ -11,9 +11,4 @@ Corresponds to the physical hardware involved in network transmission
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A layer in the OSI model that corresponds to the physical hardware involved in a network transmission.
-?
-Physical Layer
-<!--SR:!2024-05-18,14,290-->
+Flashcard Tags: 

@@ -23,9 +23,4 @@ Firewalls can also restrict specific incoming and outgoing network traffic.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A network security device that monitors traffic to and from your network that can also allow restricting of incoming and outgoing network traffic.
-?
-Firewall
-<!--SR:!2024-05-16,12,270-->
+Flashcard Tags: 

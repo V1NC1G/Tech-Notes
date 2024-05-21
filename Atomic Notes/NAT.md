@@ -19,9 +19,4 @@ Part of the [[Internet Layer - TCP-IP|internet layer]] and [[Transport Layer - T
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-The process of replacing a source's private IP by a router with its public IP to communicate to the internet.
-?
-Network Address Translation (NAT)
-<!--SR:!2024-05-12,1,210-->
+Flashcard Tags: 

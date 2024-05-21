@@ -11,9 +11,4 @@ Use of text messages to trick users to obtain sensitive information or impersona
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attacks 
-
-Phishing that uses text message to trick users to obtain sensitive data or impersonate a known source.
-??
-Smishing
-<!--SR:!2024-05-14,15,290!2024-06-21,41,292-->
+Flashcard Tags: 

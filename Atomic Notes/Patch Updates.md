@@ -13,8 +13,4 @@ The newly updated OS should be updated to the [[Baseline Configuration|baseline 
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-A type of OS hardening practice that addresses security vulnerabilities within a program or product by updating it.
-?
-patch updates
+Flashcard Tags: 

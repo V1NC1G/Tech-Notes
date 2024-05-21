@@ -11,9 +11,4 @@ Refers to all potential vulnerabilities that a threat actor could exploit like [
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Refers to all potential vulnerabilities that a threat actor could exploit.
-??
-Attack Surface
-<!--SR:!2024-05-13,13,270!2024-05-15,13,270-->
+Flashcard Tags: 

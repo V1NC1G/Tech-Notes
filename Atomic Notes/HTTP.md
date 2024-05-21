@@ -17,14 +17,4 @@ Uses port 80.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A protocol that provides a method of communication between client and website servers and is considered insecure.
-?
-HTTP
-<!--SR:!2024-05-20,9,250-->
-
-What port number does HTTP uses?
-?
-port 80
-<!--SR:!2024-05-24,13,270-->
+Flashcard Tags: 

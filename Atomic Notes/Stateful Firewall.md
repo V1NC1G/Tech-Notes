@@ -11,9 +11,4 @@ A class of [[Firewall|firewall]] that **keeps track of information** passing thr
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A class of firewall that keeps track of information passing through it and proactively filters out threats.
-?
-Stateful Firewall
-<!--SR:!2024-05-13,2,250-->
+Flashcard Tags: 

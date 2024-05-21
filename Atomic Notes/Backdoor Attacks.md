@@ -18,10 +18,4 @@ An attacker that has access to a backdoor can do all kinds of attacks like a [[D
 
 # Flashcards
 
-Flashcard Tags: #network #cybersecurity
-
-A kind of attack that access a weakness that is intentionally put in an application for conducting troubleshooting or admin task, to install malware, steal private info, or changing security settings.
-?
-Backdoor Attack
-
-<!--SR:!2024-05-15,4,270-->
+Flashcard Tags: 

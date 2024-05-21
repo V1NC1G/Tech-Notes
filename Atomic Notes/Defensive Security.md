@@ -24,16 +24,4 @@ It is concerned with two main task:
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-It is the process of protecting an organization's network and computer systems.
-?
-Defensive Security
-
-<!--SR:!2024-05-13,2,190-->
-
-What are the two main task of defensive security?
-?
-Preventing intrusions, and detecting & responding to intrusions
-
-<!--SR:!2024-05-28,17,250-->
+Flashcard Tags: 

@@ -15,14 +15,4 @@ Operates over the [[TCP]] port 22 and is a replacement for less secure protocols
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Protocol used to create a secure connection with a remote system.
-?
-Secure Shell Protocol (SSH)
-<!--SR:!2024-05-22,11,270-->
-
-Port where SSH operates.
-?
-port 22
-<!--SR:!2024-05-25,14,290-->
+Flashcard Tags: 

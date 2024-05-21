@@ -21,9 +21,4 @@ It is one component of creating **isolated** subnetworks through physical isolat
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-The division of a network into logical groups where network devices function as their own network.
-?
-Subnetting
-<!--SR:!2024-05-25,14,290-->
+Flashcard Tags: 

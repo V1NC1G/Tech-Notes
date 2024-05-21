@@ -29,15 +29,4 @@ Tags: [[Cybersecurity]] [[Security Principles]]
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-What are the OWASP security principles?
-?
-
-- Minimize attack surface area
-- Principle of least privilege
-- Defense in depth
-- Separation of duties
-- Keep security simple
-- Fix security issues correctly
-<!--SR:!2024-05-15,4,190-->
+Flashcard Tags: 

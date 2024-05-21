@@ -15,9 +15,4 @@ A network protocol used to determine the [[MAC Address]] of the next router or d
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A network access layer protocol used to translate the IP address that is found in data packets into the MAC address of the hardware device.
-?
-Address Resolution Protocol (ARP)
-<!--SR:!2024-05-13,2,250-->
+Flashcard Tags: 

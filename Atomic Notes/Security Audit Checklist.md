@@ -57,14 +57,4 @@ This is the end of the audit process and it is about providing detailed report o
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-What are the areas of focus in a security audit checklist?
-?
-
-- Identify the scope of the audit
-- Complete a risk assessment
-- Conduct the audit
-- Create a mitigation plan
-- Communicate results to stakeholders
-<!--SR:!2024-05-21,10,230-->
+Flashcard Tags: 

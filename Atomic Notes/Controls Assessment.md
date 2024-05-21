@@ -14,10 +14,4 @@ Involves closely reviewing an organization's existing assets, then evaluating po
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-Reviewing an organization's existing assets and evaluating potential risks to ensure internal controls are effective.
-?
-Controls Assessment
-
-<!--SR:!2024-05-16,5,210-->
+Flashcard Tags: 

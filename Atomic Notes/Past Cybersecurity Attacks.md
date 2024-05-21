@@ -43,4 +43,4 @@ During the Equifax breach, over 143 million customer records were stolen, and th
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
+Flashcard Tags: 

@@ -14,9 +14,4 @@ The [[ISO]]/IEC 27001 outlines requirements for an information security manageme
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #framework 
-
-Framework that outlines requirements that supports an organization's ability to manage risks.
-??
-ISO/IEC 27001
-<!--SR:!2024-05-17,6,250!2024-05-22,11,230-->
+Flashcard Tags: 

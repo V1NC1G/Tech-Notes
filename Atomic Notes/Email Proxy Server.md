@@ -13,9 +13,4 @@ Reduces the risk of [[Phishing|phishing]] attacks that impersonate people known 
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Proxy server that filters spam email by verifying whether a sender's address was forged.
-?
-Email Proxy Server
-<!--SR:!2024-05-12,1,230-->
+Flashcard Tags: 

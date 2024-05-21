@@ -15,9 +15,4 @@ More secure than a [[Hub|hub]] as it only passes data to the intended destinatio
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A device that makes connections between specific devices on a network by sending and receiving data between them.
-?
-Switch
-<!--SR:!2024-05-21,17,290-->
+Flashcard Tags: 

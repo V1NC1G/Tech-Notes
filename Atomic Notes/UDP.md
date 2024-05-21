@@ -22,9 +22,4 @@ Occurs at the [[Transport Layer - OSI|transport layer]].
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A connectionless protocol that does not establish a connection between devices before transmission and used with performance sensitive applications.
-?
-User Datagram Protocol (UDP)
-<!--SR:!2024-05-17,13,290-->
+Flashcard Tags: 

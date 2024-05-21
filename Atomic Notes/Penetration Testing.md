@@ -11,9 +11,4 @@ The act of participating in a simulated attack that helps identify vulnerabiliti
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #technique 
-
-The act of participating in a simulated attack to identify vulnerabilities.
-??
-Penetration testing
-<!--SR:!2024-05-14,15,290!2024-05-15,16,290-->
+Flashcard Tags: 

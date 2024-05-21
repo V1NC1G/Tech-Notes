@@ -17,4 +17,4 @@ The use of digital communications to trick people into revealing sensitive data 
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
+Flashcard Tags: 

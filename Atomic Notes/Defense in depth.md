@@ -14,10 +14,4 @@ Means that an organization should have multiple security controls that address r
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-A security principle that an organization should have security controls that address risks and threats in different ways.
-??
-Defense in depth
-
-<!--SR:!2024-06-11,31,270!2024-05-30,19,250-->
+Flashcard Tags: 

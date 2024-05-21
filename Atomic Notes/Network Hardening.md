@@ -17,7 +17,7 @@ Focuses on network-related security hardening like:
 ---
 # References
 
-
+1. Google Cybersecurity Professional Certificate
 
 ---
 # Flashcards

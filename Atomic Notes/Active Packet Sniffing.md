@@ -13,8 +13,4 @@ This can include injecting internet protocols to redirect the packets to an unin
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #network 
-
-A type of packet sniffing attack where data packets are manipulated in transit.
-?
-active packet sniffing
+Flashcard Tags: 

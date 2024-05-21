@@ -15,9 +15,4 @@ Affects both digital and physical environments.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attacks 
-
-An attack that affects both digital and physical environments.
-??
-Physical Attack
-<!--SR:!2024-05-14,15,290!2024-05-12,13,270-->
+Flashcard Tags: 

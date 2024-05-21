@@ -22,17 +22,4 @@ The **International Court of Justice** allows that a person or group can counter
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #ethics 
-
-Who are allowed to counterattack on a threat actor?
-?
-Approved employees of the federal government or military personnel
-<!--SR:!2024-05-15,16,290-->
-
-What are the conditions of the International Court of Justice for allowing to counterattack on a threat actor?
-?
-1. Will only affect the party that attacked first
-2. A direct communication to the attacker to stop
-3. Does not escalate the situation
-4. Can be reversed
-<!--SR:!2024-05-22,16,250-->
+Flashcard Tags: 

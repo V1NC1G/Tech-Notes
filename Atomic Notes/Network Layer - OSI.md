@@ -11,9 +11,4 @@ Oversees receiving frames from the [[Data Link Layer - OSI|data link layer]] and
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-The layer in the OSI model that oversees receiving frames from the data link layer and delivers them to the intended destination.
-?
-Network Layer
-<!--SR:!2024-05-16,12,270-->
+Flashcard Tags: 

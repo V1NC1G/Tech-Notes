@@ -18,10 +18,4 @@ The goal of the attack is to send so much information on a network device that i
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-An attack that targets a network or server and floods it with network traffic.
-?
-Denial of Service Attack (DoS Attack)
-
-<!--SR:!2024-05-15,4,270-->
+Flashcard Tags: 

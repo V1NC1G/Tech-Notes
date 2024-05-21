@@ -14,10 +14,4 @@ Pieces of software that perform network operations.
 
 # Flashcards
 
-Flashcard Tags: #network #virtualization
-
-Pieces of software that perform network operations.
-?
-Virtualization Tools
-
-<!--SR:!2024-05-22,11,270-->
+Flashcard Tags: 

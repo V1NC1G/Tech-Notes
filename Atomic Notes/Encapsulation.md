@@ -13,4 +13,3 @@ A process performed by a [[VPN]] service that protects your data by wrapping sen
 
 Flashcard Tags: #network 
 
-A process performed by a VPN service that protects data by wrapping sensitive data in other packets.

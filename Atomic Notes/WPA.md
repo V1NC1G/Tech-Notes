@@ -15,9 +15,4 @@ Addressed weak encryption by [[WEP]] by using a protocol called **Temporal Key I
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A wireless security protocol for devices to connect to the internet and an improvement to WEP.
-?
-WiFi Protected Access (WPA)
-<!--SR:!2024-05-27,16,290-->
+Flashcard Tags: 

@@ -13,9 +13,4 @@ Their goal is to sell confidential data for financial gain.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attackers 
-
-Hackers who do not follow the law and aims to sell confidential data for financial gain.
-??
-unauthorized hackers
-<!--SR:!2024-05-15,16,290!2024-05-15,16,292-->
+Flashcard Tags: 

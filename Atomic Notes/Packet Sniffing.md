@@ -20,9 +20,4 @@ There are ways to protect against **malicious** packet sniffing which can be:
 ---
 # Flashcards
 
-Flashcard Tags: #network #cybersecurity 
-
-The practice of capturing and inspecting data packets across a network.
-?
-Packet Sniffing
-<!--SR:!2024-05-21,17,290-->
+Flashcard Tags: 

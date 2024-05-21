@@ -20,4 +20,4 @@ Anything that can impact the confidentiality, integrity, or availability of an a
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
+Flashcard Tags: 

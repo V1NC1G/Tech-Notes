@@ -18,9 +18,4 @@ Fall under [[Communication and Network Security]] domain.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attacks 
-
-Attack that affects secure forms of communication.
-??
-Cryptographic Attack
-<!--SR:!2024-05-27,21,270!2024-06-22,42,308-->
+Flashcard Tags: 

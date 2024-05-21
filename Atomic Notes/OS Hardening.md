@@ -21,8 +21,4 @@ Some OS hardening tasks:
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Practices/tasks performed to secure an OS.
-?
-OS Hardening
+Flashcard Tags: 

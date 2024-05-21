@@ -15,9 +15,4 @@ These organizations are obligated to prepare for, mitigate, and report any poten
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #framework 
-
-Regulation that applies to organizations that work with electricity or involved with the US and North American power grid.
-??
-FERC-NERC
-<!--SR:!2024-06-01,26,270!2024-05-14,15,290-->
+Flashcard Tags: 

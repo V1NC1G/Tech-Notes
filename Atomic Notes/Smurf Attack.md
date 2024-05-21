@@ -13,8 +13,4 @@ It basically is a combination of a [[DDoS Attack]] and an [[IP Spoofing]] attack
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #network 
-
-A network attack performed when an attacker sniffs an authorized user's IP address and floods it with packets.
-?
-Smurf Attack
+Flashcard Tags: 

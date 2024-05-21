@@ -13,9 +13,4 @@ The transport layer is responsible for delivering data between devices, handles 
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A layer in the OSI model that is responsible for delivering data between devices, and the speed & flow of data transfer.
-?
-Transport Layer
-<!--SR:!2024-06-05,25,270-->
+Flashcard Tags: 

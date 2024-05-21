@@ -11,9 +11,4 @@ Any person who presents a security risk.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Any person who presents a security risk.
-??
-Threat Actor
-<!--SR:!2024-05-23,17,252!2024-05-12,13,290-->
+Flashcard Tags: 

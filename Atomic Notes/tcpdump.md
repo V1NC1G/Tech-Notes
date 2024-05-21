@@ -47,8 +47,4 @@ It also displays the source [[IP Address]], destination IP address, and [[Port|p
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-A command line network protocol analyzer that provides a brief packet analysis and converts key information about about network traffic into formats easily read by humans in the terminal.
-?
-tcpdump
+Flashcard Tags: 

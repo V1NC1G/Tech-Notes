@@ -13,9 +13,4 @@ They safeguard people and organizations from malicious [[Threat Actor|threat act
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attackers 
-
-Hackers that follow a code of ethics and the law to conduct organizational risk evaluations.
-??
-authorized hackers
-<!--SR:!2024-05-14,15,290!2024-05-14,15,292-->
+Flashcard Tags: 

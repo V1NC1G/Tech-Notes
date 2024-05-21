@@ -17,9 +17,4 @@ The focus of digital forensics in defensive security is analyzing evidence of an
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-The process of investigating crimes and establishing facts in digital systems.
-?
-Digital Forensics
-<!--SR:!2024-05-18,14,290-->
+Flashcard Tags: 

@@ -30,19 +30,4 @@ Additionally, organizations implement risk management processes based on widely 
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-Risk management strategies.
-?
-
-- Acceptance
-- Avoidance
-- Transference
-- Mitigation
-<!--SR:!2024-05-12,1,130-->
-
-The process of protecting an organization's assets by controlling security risks.
-??
-Risk Management
-
-<!--SR:!2024-05-26,15,250!2024-05-19,8,188-->
+Flashcard Tags: 

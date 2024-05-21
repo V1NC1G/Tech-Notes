@@ -16,10 +16,4 @@ The layer of the web that requires authorization to access it.
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity #web
-
-The layer of the web that requires authorization to access.
-??
-deep web
-
-<!--SR:!2024-05-12,13,290!2024-06-22,42,290-->
+Flashcard Tags: 

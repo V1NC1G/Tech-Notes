@@ -11,9 +11,4 @@ The process of identifying potential risks, threats, or vulnerabilities.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-The process of identifying potential risks, threats, or vulnerabilities.
-?
-Risk Assessment
-<!--SR:!2024-05-15,13,270-->
+Flashcard Tags: 

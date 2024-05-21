@@ -23,10 +23,4 @@ Stolen SPII is more damaging to an individual than if PII is stolen.
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-A specific type of PII that falls under stricter handling guidelines.
-??
-sensitive personally identifiable information
-
-<!--SR:!2024-06-19,39,290!2024-07-03,53,290-->
+Flashcard Tags: 

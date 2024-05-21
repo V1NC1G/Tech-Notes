@@ -19,10 +19,4 @@ def foo(bar):
 
 # Flashcards
 
-Flashcard Tags: #programming
-
-Variables declared in a function definition.
-??
-Parameters
-
-<!--SR:!2024-05-14,15,290!2024-06-17,37,290-->
+Flashcard Tags: 

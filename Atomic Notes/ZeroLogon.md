@@ -11,9 +11,4 @@ A vulnerability in Microsoft's NetLogon authentication protocol that is a servic
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #vulnerability 
-
-A vulnerability in Microsoft's NetLogon authentication protocol.
-??
-ZeroLogon
-<!--SR:!2024-05-13,9,250!2024-05-14,8,228-->
+Flashcard Tags: 

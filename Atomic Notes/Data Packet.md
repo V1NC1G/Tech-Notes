@@ -21,16 +21,4 @@ When data packets are sent and received across a network, they are assigned a [[
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A basic unit of information that travels from one device to another within a network.
-?
-Data Packet
-<!--SR:!2024-05-21,17,290-->
-
-Contents of a data packet.
-?
-- Header
-- Body
-- Footer
-<!--SR:!2024-05-21,17,290-->
+Flashcard Tags: 

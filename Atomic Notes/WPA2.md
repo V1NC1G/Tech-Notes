@@ -21,19 +21,4 @@ Uses the **Counter Mode Cipher Block Chain Message Authentication Code Protocol*
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Version of WPA with the improvement of using Advanced Encryption Standard.
-?
-WPA2
-<!--SR:!2024-05-23,12,270-->
-
-WPA2 mode that is best suited for home networks since it is easy to implement.
-?
-WPA2 Personal Mode
-<!--SR:!2024-05-23,12,270-->
-
-WPA2 mode that is best suited for business applications due to better security in a business setting and provides individualized and centralized control over WiFi access to a business network.
-?
-WPA2 Enterprise Mode
-<!--SR:!2024-05-26,15,290-->
+Flashcard Tags: 

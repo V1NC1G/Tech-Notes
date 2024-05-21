@@ -11,9 +11,4 @@ Unique alphanumeric identifier that is assigned to each physical device on a net
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Unique alphanumeric identifiers that is assigned to each physical device on a network.
-??
-MAC Address
-<!--SR:!2024-05-18,14,290!2024-05-30,19,250-->
+Flashcard Tags: 

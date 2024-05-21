@@ -13,14 +13,4 @@ Not as secure as [[SSH]] and uses [[TCP]] port 23
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-An application layer protocol that is used to connect with a remote system but not as secure as SSH.
-?
-Telnet
-<!--SR:!2024-05-23,12,270-->
-
-Port telnet protocol use.
-?
-port 23
-<!--SR:!2024-05-20,9,250-->
+Flashcard Tags: 

@@ -19,9 +19,4 @@ One of the task that [[Security Operations|security operations]] cover is [[Thre
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-A team of security professionals that monitors the network and its systems to detect malicious cyber security events.
-?
-Security Operations Center
-<!--SR:!2024-05-20,16,290-->
+Flashcard Tags: 

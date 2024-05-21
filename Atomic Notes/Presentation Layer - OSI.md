@@ -18,9 +18,4 @@ Adds to and replaces data with formats that can be understood by applications (L
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A layer in the OSI model that involve data translation and encryption for the network.
-?
-Presentation Layer
-<!--SR:!2024-05-19,15,290-->
+Flashcard Tags: 

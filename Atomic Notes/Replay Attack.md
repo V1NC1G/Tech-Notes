@@ -11,8 +11,4 @@ A network attack performed when a malicious actor intercepts a data packet in tr
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #network 
-
-A network attack where a malicious actor intercepts a data packet in transit and delays it or repeats it at another time.
-?
-Replay Attack
+Flashcard Tags: 

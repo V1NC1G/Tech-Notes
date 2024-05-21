@@ -13,11 +13,5 @@ The objective of identity theft is financial gain.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attacks 
-
-The act of stealing personal information to commit fraud while impersonating a victim.
-??
-Identity theft
-<!--SR:!2024-05-15,16,290!2024-07-01,51,292-->
-
+Flashcard Tags: 
 

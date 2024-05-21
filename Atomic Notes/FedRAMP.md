@@ -13,9 +13,4 @@ A US federal government program that standardize security assessment, authorizat
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #framework 
-
-A US federal government program aimed to provide consistency across government sector and third-party cloud providers.
-??
-FedRAMP
-<!--SR:!2024-05-23,17,248!2024-06-05,25,250-->
+Flashcard Tags: 

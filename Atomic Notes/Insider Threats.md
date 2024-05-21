@@ -17,9 +17,4 @@ Intentions/Motivations include:
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attackers #threat 
-
-Attackers that abuse their authorized access to obtain data that may harm an organization.
-??
-insider threats
-<!--SR:!2024-05-31,25,270!2024-05-31,25,270-->
+Flashcard Tags: 

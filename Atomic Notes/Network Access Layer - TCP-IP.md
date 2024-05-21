@@ -13,9 +13,4 @@ Sometimes called the *data link layer*.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A layer in the TCP/IP model that deals with the creation of data packets and their transmission across a network.
-?
-Network Access Layer
-<!--SR:!2024-05-12,1,210-->
+Flashcard Tags: 

@@ -16,10 +16,4 @@ This eventually uses up all the bandwidth for incoming and outgoing traffic caus
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-A type of DoS attack where an attacker repeatedly sends ICMP packets to a network server.
-?
-ICMP Flood Attack
-
-<!--SR:!2024-05-15,4,270-->
+Flashcard Tags: 

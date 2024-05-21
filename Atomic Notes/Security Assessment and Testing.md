@@ -11,9 +11,4 @@ Conducts [[Security Controls|security control]] testing, collecting and analyzin
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #securitydomains 
-
-Security domain that focuses on conducting security control testing and security audits to monitor for risk, threats, and vulnerabilities.
-??
-Security Assessment and Testing
-<!--SR:!2024-05-15,16,290!2024-06-02,27,270-->
+Flashcard Tags: 

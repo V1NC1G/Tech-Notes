@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Port Filtering.md",
+                "file": "Atomic Notes/ZeroLogon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Port Filtering.md",
+                "file": "Atomic Notes/ZeroLogon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Port Filtering.md",
+                "file": "Atomic Notes/ZeroLogon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Port Filtering.md"
+                "file": "Atomic Notes/ZeroLogon.md"
               }
             }
           },
@@ -177,33 +177,33 @@
   },
   "active": "9158f0b477748530",
   "lastOpenFiles": [
-    "Atomic Notes/Network Hardening.md",
-    "Atomic Notes/Network Log Analysis.md",
-    "Atomic Notes/IP Address.md",
-    "Full Notes/Reading tcpdump Logs.md",
-    "Templates/Flashcard Template.md",
-    "Full Notes/How to Read a Wireshark Log.md",
-    "Atomic Notes/TCP Flag Codes.md",
-    "Full Notes/Reading Wireshark Logs.md",
-    "Atomic Notes/Salting and Hashing.md",
-    "Atomic Notes/Dictionary Attacks.md",
-    "Atomic Notes/Simple Brute Force Attacks.md",
-    "Atomic Notes/Brute Force Attacks.md",
-    "Atomic Notes/Security Hardening.md",
-    "Atomic Notes/Patch Updates.md",
-    "Atomic Notes/OS Hardening.md",
-    "Atomic Notes/Baseline Configuration.md",
-    "Atomic Notes/Smurf Attack.md",
-    "Atomic Notes/Penetration Testing.md",
-    "Atomic Notes/Passive Packet Sniffing.md",
-    "Atomic Notes/Packet Sniffing.md",
-    "Atomic Notes/Active Packet Sniffing.md",
-    "Atomic Notes/Hardware and Software Disposal.md",
-    "Atomic Notes/IP Spoofing.md",
+    "Atomic Notes/WPA3.md",
+    "Atomic Notes/ZeroLogon.md",
+    "Atomic Notes/WPA2.md",
+    "Atomic Notes/WPA.md",
+    "Atomic Notes/Worm.md",
+    "Atomic Notes/WireGuard VPN.md",
+    "Atomic Notes/Wide Area Network.md",
+    "Atomic Notes/Whaling.md",
+    "Atomic Notes/WEP.md",
+    "Atomic Notes/Web Vulnerability.md",
+    "Atomic Notes/Watering Hole Attack.md",
+    "Atomic Notes/Vulnerability.md",
+    "Atomic Notes/VPN.md",
+    "Atomic Notes/Vishing.md",
+    "Atomic Notes/Virus.md",
+    "Atomic Notes/Virtualization Tools.md",
+    "Atomic Notes/USB Baiting.md",
+    "Atomic Notes/Uncontrolled Zone.md",
+    "Atomic Notes/Unauthorized Hackers.md",
+    "Atomic Notes/UDP.md",
+    "Atomic Notes/Transport Layer - TCP-IP.md",
+    "Atomic Notes/Transport Layer - OSI.md",
+    "Atomic Notes/Tools.md",
+    "Atomic Notes/Threat Intelligence.md",
+    "Atomic Notes/Threat Actor.md",
+    "Atomic Notes/Threat.md",
     "Full Notes",
-    "Excalidraw/ip-address-structure.excalidraw.md",
-    "Atomic Notes/Network.md",
-    "Atomic Notes/On-Path Attack.md",
     "Files/tcp-dump-output.png",
     "Files/Switch Diagram.drawio.svg",
     "Files/Switch Diagram.drawio.png",

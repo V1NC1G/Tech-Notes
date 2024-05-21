@@ -25,21 +25,4 @@ Contains the [[Port|port]] number of the intended destination service.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-An internet communication protocol that allows two devices to form a connection and stream data.
-?
-TCP
-<!--SR:!2024-06-01,21,270-->
-
-What does TCP stands for?
-?
-Transmission Control Protocol
-<!--SR:!2024-05-19,8,270-->
-
-What is the process of a three-way handshake in TCP?
-?
-1. Client sends synchronize (SYN) request to server.
-2. Server responds with SYS/ACK to acknowledge the request.
-3. Client acknowledges the SYS/ACK server response to establish a reliable connection.
-<!--SR:!2024-05-20,9,272-->
+Flashcard Tags: 

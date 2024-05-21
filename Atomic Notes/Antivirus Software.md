@@ -13,9 +13,4 @@ Also called **anti-malware**.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #tools 
-
-Software to prevent, detect, and eliminate malware and viruses.
-??
-Antivirus Software
-<!--SR:!2024-05-14,15,290!2024-06-02,27,270-->
+Flashcard Tags: 

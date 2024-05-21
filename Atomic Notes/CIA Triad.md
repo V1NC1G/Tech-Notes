@@ -30,40 +30,4 @@ Data is accessible to those who are authorized to access it.
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity #framework
-
-What is CIA?
-?
-A model that helps informs how organizations consider risk when setting up systems and security policies
-
-<!--SR:!2024-05-20,14,256-->
-
-Key aspects that the CIA triad ensure.
-?
-Data is correct, authentic, and reliable.
-
-<!--SR:!2024-05-24,20,276-->
-
-What is CIA in the CIA triad?
-?
-Confidentiality, Integrity, and Availability
-
-<!--SR:!2024-05-14,15,296-->
-
-A part of the CIA triad that signifies that only authorized users can access specific assets or data.
-?
-Confidentiality
-
-<!--SR:!2024-05-16,17,290-->
-
-A part of the CIA triad that ensures that data is correct, authentic, and reliable.
-?
-Integrity
-
-<!--SR:!2024-06-13,33,292-->
-
-A part of the CIA triad that ensures that data is accessible to those who are authorized to access it.
-?
-Availability
-
-<!--SR:!2024-05-15,16,292-->
+Flashcard Tags: 

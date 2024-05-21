@@ -27,15 +27,4 @@ Defines:
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity #securitydomains
-
-What does security and risk management define?
-?
-
-- Security goals and objectives
-- Risk mitigation
-- Compliance
-- Business continuity
-- Legal regulations
-- Professional and organizational ethics
-<!--SR:!2024-05-12,1,130-->
+Flashcard Tags: 

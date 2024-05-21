@@ -16,9 +16,4 @@ Measures put in place to prevent physical access to protected assets.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Security controls put in place to prevent physical access to protected assets.
-?
-Physical Controls
-<!--SR:!2024-05-19,17,290-->
+Flashcard Tags: 

@@ -24,10 +24,4 @@ Investigation and preventative strategies include:
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity #securitydomains
-
-Security domain that focuses on conducting investigations and implements preventative security measures.
-??
-Security Operations
-
-<!--SR:!2024-05-14,15,290!2024-05-18,7,210-->
+Flashcard Tags: 

@@ -13,9 +13,4 @@ A security framework and assurance program that helps institutions meet [[HIPAA]
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #framework 
-
-A security framework and assurance program that helps institutions meet HIPAA compliance.
-??
-HITRUST
-<!--SR:!2024-06-25,45,290!2024-06-28,48,290-->
+Flashcard Tags: 

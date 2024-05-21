@@ -11,9 +11,4 @@ Outsourcing work to third-party vendors can give them access to intellectual pro
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #risk 
-
-Risk factor that concerns outsourcing work to third-party vendors.
-??
-Multiparty Risk
-<!--SR:!2024-05-14,15,290!2024-05-30,24,270-->
+Flashcard Tags: 

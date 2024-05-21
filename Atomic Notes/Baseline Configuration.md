@@ -16,8 +16,4 @@ A documented set of specifications within a system that is used as a basis for f
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-A documented set of specifications within a system that is used as a basis for future builds, releases, and updates.
-?
-Baseline Configuration
+Flashcard Tags: 

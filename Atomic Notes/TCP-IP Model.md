@@ -21,17 +21,4 @@ Combines multiple layers of the [[OSI Model]] and basically a more simplified ve
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A framework that is used to visualize how data is organized and transmitted across the network.
-??
-TCP/IP Model
-<!--SR:!2024-05-17,13,290!2024-05-24,13,250-->
-
-What are the layers of the TCP/IP model?
-?
-- Network Access Layer
-- Internet Layer
-- Transport Layer
-- Application Layer
-<!--SR:!2024-05-20,9,250-->
+Flashcard Tags: 

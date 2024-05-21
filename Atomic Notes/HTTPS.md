@@ -19,14 +19,4 @@ Occurs at the [[Application Layer - OSI|application layer]].
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A network protocol that provides a secure method of communication between clients and website servers.
-?
-HyperText Transfer Protocol Secure (HTTPS)
-<!--SR:!2024-05-24,13,270-->
-
-What port does HTTPS uses?
-?
-port 443
-<!--SR:!2024-05-19,8,250-->
+Flashcard Tags: 

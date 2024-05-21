@@ -11,9 +11,4 @@ Information that is not available to the public and *may* cause some damage to t
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #risk
-
-Asset that is not available to the public and may cause some damage to the organization.
-??
-medium-risk asset
-<!--SR:!2024-05-14,15,290!2024-05-28,22,270-->
+Flashcard Tags: 

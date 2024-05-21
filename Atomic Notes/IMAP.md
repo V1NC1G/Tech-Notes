@@ -19,19 +19,4 @@ Uses [[TCP]] port 993 over [[TLS]] protocol
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-Protocol used for incoming email and remains on the email server which allows users to access the mail across multiple devices.
-?
-Internet Message Access Protocol (IMAP)
-<!--SR:!2024-05-12,1,210-->
-
-Port on which IMAP operates for unencrypted email.
-?
-port 143
-<!--SR:!2024-05-12,1,190-->
-
-Port on which IMAP operates over TLS.
-?
-port 993
-<!--SR:!2024-05-12,1,190-->
+Flashcard Tags: 

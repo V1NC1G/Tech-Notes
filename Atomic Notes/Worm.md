@@ -13,9 +13,4 @@ Unlike a virus, it self replicates and spreads from an already infected computer
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #malware 
-
-Malware that can duplicate and spread itself across systems on its own.
-??
-Worm
-<!--SR:!2024-05-15,16,290!2024-06-24,44,290-->
+Flashcard Tags: 

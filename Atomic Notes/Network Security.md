@@ -11,9 +11,4 @@ The practice of keeping an organization's network infrastructure secure from una
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-The practice of keeping an organization's network infrastructure secure from unauthorized access.
-??
-Network Security
-<!--SR:!2024-05-23,19,270!2024-05-25,14,250-->
+Flashcard Tags: 

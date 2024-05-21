@@ -22,8 +22,4 @@ A network attack performed when an attacker changes the source [[IP]] of a [[Dat
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #network 
-
-A network attack where an attacker changes the source IP of a data packet to impersonate an authorized system and gain access to a network.
-?
-IP Spoofing
+Flashcard Tags: 

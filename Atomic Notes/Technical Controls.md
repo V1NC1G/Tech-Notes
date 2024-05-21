@@ -11,9 +11,4 @@ Hardware and software solutions used to protect assets such as the use of [[Intr
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Security controls that are hardware and software solutions used to protect assets.
-?
-Technical Controls
-<!--SR:!2024-05-13,11,270-->
+Flashcard Tags: 

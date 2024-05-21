@@ -17,9 +17,4 @@ A disadvantage is it is complex to configure and manage compared to [[Remote Acc
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A VPN connection used by enterprise to extend their network to other networks and locations. It is complex to configure and manage compared to other VPN connection type.
-?
-site-to-site VPN
-<!--SR:!2024-05-12,1,230-->
+Flashcard Tags: 

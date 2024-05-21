@@ -14,10 +14,4 @@ A vulnerability that allows attackers to run Java code remotely or leak sensitiv
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity #vulnerability
-
-A vulnerability that allows attackers to run malicious Java code on devices connected to the internet remotely.
-??
-Log4Shell
-
-<!--SR:!2024-06-17,37,290!2024-06-27,47,290-->
+Flashcard Tags: 

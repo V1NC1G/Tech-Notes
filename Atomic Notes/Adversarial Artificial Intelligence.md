@@ -13,9 +13,4 @@ Fall under both the [[Communication and Network Security]] and [[Identity and Ac
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #attacks 
-
-Attack that uses AI and ML to conduct more efficient attacks.
-??
-Adversarial Artificial Intelligence
-<!--SR:!2024-05-15,16,290!2024-05-12,13,270-->
+Flashcard Tags: 

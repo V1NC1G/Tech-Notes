@@ -15,9 +15,4 @@ Other times, the *internal actor* intentionally engages in activities such as un
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Current or former employees, vendors, or trusted partner that poses a security risk.
-??
-Internal Threats
-<!--SR:!2024-06-27,47,290!2024-05-12,13,270-->
+Flashcard Tags: 

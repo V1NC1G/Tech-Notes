@@ -13,9 +13,4 @@ Allows improvement on an organization's response to security attacks.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #framework 
-
-A cybersecurity framework that provides a common language for communicating about cyber threat activity.
-??
-Cyber Threat Framework
-<!--SR:!2024-06-14,34,288!2024-05-13,11,230-->
+Flashcard Tags: 

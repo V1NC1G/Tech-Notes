@@ -25,9 +25,4 @@ Compromised, leaked, or stolen PII/SPII, [[Identity Theft|identity theft]] is th
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-Any information used to infer an individuals identity.
-??
-personally identifiable information
-<!--SR:!2024-07-04,54,308!2024-06-20,40,290-->
+Flashcard Tags: 

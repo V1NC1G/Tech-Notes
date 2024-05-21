@@ -11,4 +11,4 @@ Tags: [[Cybersecurity]]
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
+Flashcard Tags: 

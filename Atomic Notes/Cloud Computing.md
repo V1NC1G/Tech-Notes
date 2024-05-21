@@ -11,8 +11,4 @@ It is the practice of using remote servers, applications, and network services t
 ---
 # Flashcards
 
-Flashcard Tags: #cloud
-
-It is the practice of using remote resources such as servers, applications, and network services that are hosted on the internet.
-??
-Cloud Computing
+Flashcard Tags: 

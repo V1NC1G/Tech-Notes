@@ -11,9 +11,4 @@ A pre-authenticated vulnerability that affects the Microsoft Exchange server whe
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #vulnerability 
-
-A vulnerability that affects the Microsoft Exchange server that allows a threat actor to authenticate and deploy malicious code remotely.
-??
-ProxyLogon
-<!--SR:!2024-05-19,15,250!2024-05-28,17,228-->
+Flashcard Tags: 

@@ -18,12 +18,4 @@ Tags: [[Cybersecurity]] [[Cybersecurity Ethics]]
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity #ethics
-
-What are the ethical principles in security?
-?
-
-- Confidentiality
-- Privacy protections
-- Laws
-<!--SR:!2024-05-13,2,170-->
+Flashcard Tags: 

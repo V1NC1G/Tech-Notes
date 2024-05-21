@@ -13,9 +13,4 @@ Inside the internal network is a zone called the [[Restricted Zone]].
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-An area in the controlled zone where it contains private servers and data that the organization needs to protect.
-?
-Internal Network
-<!--SR:!2024-05-13,2,250-->
+Flashcard Tags: 

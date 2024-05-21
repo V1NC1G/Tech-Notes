@@ -11,9 +11,4 @@ A network device that connects your router to the internet and brings internet a
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A network device that connects your router to the internet and brings internet access to the LAN.
-?
-Modem
-<!--SR:!2024-05-19,15,290-->
+Flashcard Tags: 

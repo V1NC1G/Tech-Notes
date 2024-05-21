@@ -11,9 +11,4 @@ The concept of granting access to specific resources within a system.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #control
-
-The concept of granting access to specific resources within a system.
-??
-Authorization
-<!--SR:!2024-05-12,13,270!2024-05-19,13,228-->
+Flashcard Tags: 

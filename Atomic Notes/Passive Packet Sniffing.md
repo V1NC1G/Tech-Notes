@@ -11,8 +11,4 @@ A type of attack where data packets are read in transit.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #network 
-
-A type of packet sniffing attack where packets are read in transit
-?
-passive packet sniffing
+Flashcard Tags: 

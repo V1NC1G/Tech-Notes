@@ -11,9 +11,4 @@ A security technique that divides the network into segments where each segment h
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A security technique that divides the network into segments.
-?
-Network Segmentation
-<!--SR:!2024-05-12,1,210-->
+Flashcard Tags: 

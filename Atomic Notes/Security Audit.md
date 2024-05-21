@@ -21,15 +21,4 @@ The objective of an audit is to identify and address areas of remediation and gr
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-A review of an organization's security controls, policies, and procedures agains a set of expectations.
-?
-Security Audit
-<!--SR:!2024-06-08,28,270-->
-
-Two types of security audits.
-?
-- internal audit
-- external audit
-<!--SR:!2024-05-15,13,290-->
+Flashcard Tags: 

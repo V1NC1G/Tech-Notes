@@ -16,10 +16,4 @@ A US federal law to protect patient's health information.
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity
-
-A US federal law to protect patient's health information.
-??
-HIPAA
-
-<!--SR:!2024-05-15,16,290!2024-06-04,24,272-->
+Flashcard Tags: 

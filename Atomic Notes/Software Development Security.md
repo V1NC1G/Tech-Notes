@@ -14,10 +14,4 @@ Uses secure coding practices throughout the software development lifecycle to en
 
 # Flashcards
 
-Flashcard Tags: #cybersecurity #securitydomains
-
-Security domain that uses secure coding practices to ensure security is integrated into the software product.
-??
-Software Development Security
-
-<!--SR:!2024-06-21,41,290!2024-06-16,36,270-->
+Flashcard Tags: 

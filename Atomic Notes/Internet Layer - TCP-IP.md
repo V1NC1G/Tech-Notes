@@ -20,9 +20,4 @@ Also focuses on how networks connect to each other.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-It is a layer in the TCP/IP model where IP addresses are attached to data packets to indicate the location of the sender and receiver.
-?
-Internet Layer
-<!--SR:!2024-05-12,1,170-->
+Flashcard Tags: 

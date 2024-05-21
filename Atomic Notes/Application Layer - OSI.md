@@ -14,9 +14,4 @@ This layer includes processes that directly involve the everyday user and includ
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-This is a layer in the OSI model that includes process that directly involve the user.
-?
-Application Layer
-<!--SR:!2024-05-18,14,290-->
+Flashcard Tags: 

@@ -13,9 +13,4 @@ Keeps data secure by ensuring users follow established policies and manage asset
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #securitydomains 
-
-Security domain that focuses on access and authorization by ensuring users follow established security policies.
-??
-Identity and Access Management
-<!--SR:!2024-06-18,38,290!2024-05-14,10,228-->
+Flashcard Tags: 

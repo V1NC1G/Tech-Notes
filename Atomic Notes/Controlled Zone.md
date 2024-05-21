@@ -18,16 +18,4 @@ There are several types of networks within the control zone.
 ---
 # Flashcards
 
-Flashcard Tags: #network 
-
-A subnet that protects the internal network from the uncontrolled zone.
-?
-Controlled zone
-<!--SR:!2024-05-13,2,230-->
-
-What are the several types of networks within the control zone?
-?
-- Demilitarized zone
-- Internal network
-- Restricted zone
-<!--SR:!2024-05-25,14,290-->
+Flashcard Tags: 

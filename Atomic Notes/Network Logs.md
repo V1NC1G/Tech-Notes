@@ -11,9 +11,4 @@ A record of all of computers that enter and leave the network. It also records c
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity 
-
-A record of all computers that enter and leave the network as well as connections between devices and services on the network.
-?
-Network Logs
-<!--SR:!2024-05-19,15,290-->
+Flashcard Tags: 

@@ -11,9 +11,4 @@ Old systems that might not be accounted for or updated, but can impact assets.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #risk 
-
-Risk factor where old systems that might not be accounted for or updated, but can impact assets.
-??
-Legacy Systems
-<!--SR:!2024-06-24,44,290!2024-05-16,12,230-->
+Flashcard Tags: 

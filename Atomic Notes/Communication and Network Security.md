@@ -11,9 +11,4 @@ Manage and secure physical and wireless communications including on-site, remote
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #securitydomains 
-
-Security domain that manages and secure physical and wireless communications.
-??
-Communication and Network Security
-<!--SR:!2024-06-29,49,290!2024-05-15,11,230-->
+Flashcard Tags: 

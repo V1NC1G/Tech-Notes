@@ -11,9 +11,4 @@ A current/former employee, vendor, or trusted partner who poses a security risk.
 ---
 # Flashcards
 
-Flashcard Tags: #cybersecurity #risk
-
-A current/former employee, vendor, or trusted partner who poses a security risk.
-??
-Internal Risk
-<!--SR:!2024-05-13,14,290!2024-05-14,15,290-->
+Flashcard Tags: 
