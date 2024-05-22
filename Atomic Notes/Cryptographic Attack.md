@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Cyberattack]]
 # Cryptographic Attack
 
 Affects secure forms of communication between a sender and intended recipient.

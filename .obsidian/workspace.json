@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e643c19723bc793b",
+        "id": "1d51f87f4bfd36ca",
         "type": "tabs",
         "children": [
           {
-            "id": "9158f0b477748530",
+            "id": "13b52c6bd77923f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/ZeroLogon.md",
+                "file": "Atomic Notes/Ransomware.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/ZeroLogon.md",
+                "file": "Atomic Notes/Ransomware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/ZeroLogon.md",
+                "file": "Atomic Notes/Ransomware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/ZeroLogon.md"
+                "file": "Atomic Notes/Ransomware.md"
               }
             }
           },
@@ -175,34 +175,34 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "9158f0b477748530",
+  "active": "13b52c6bd77923f4",
   "lastOpenFiles": [
-    "Atomic Notes/WPA3.md",
-    "Atomic Notes/ZeroLogon.md",
-    "Atomic Notes/WPA2.md",
-    "Atomic Notes/WPA.md",
-    "Atomic Notes/Worm.md",
-    "Atomic Notes/WireGuard VPN.md",
-    "Atomic Notes/Wide Area Network.md",
-    "Atomic Notes/Whaling.md",
-    "Atomic Notes/WEP.md",
-    "Atomic Notes/Web Vulnerability.md",
-    "Atomic Notes/Watering Hole Attack.md",
-    "Atomic Notes/Vulnerability.md",
-    "Atomic Notes/VPN.md",
-    "Atomic Notes/Vishing.md",
-    "Atomic Notes/Virus.md",
-    "Atomic Notes/Virtualization Tools.md",
-    "Atomic Notes/USB Baiting.md",
-    "Atomic Notes/Uncontrolled Zone.md",
-    "Atomic Notes/Unauthorized Hackers.md",
-    "Atomic Notes/UDP.md",
-    "Atomic Notes/Transport Layer - TCP-IP.md",
-    "Atomic Notes/Transport Layer - OSI.md",
-    "Atomic Notes/Tools.md",
-    "Atomic Notes/Threat Intelligence.md",
-    "Atomic Notes/Threat Actor.md",
-    "Atomic Notes/Threat.md",
+    "Atomic Notes/Security and Risk Management.md",
+    "Atomic Notes/Botnet Attack.md",
+    "Atomic Notes/Cross-site Scripting.md",
+    "Atomic Notes/SQL Injection Attacks.md",
+    "Atomic Notes/Phishing.md",
+    "Atomic Notes/DDoS Attack.md",
+    "Atomic Notes/Malware.md",
+    "Atomic Notes/Cyberattack.md",
+    "Atomic Notes/Ransomware.md",
+    "Atomic Notes/Trojan Attack.md",
+    "Atomic Notes/Adware.md",
+    "Atomic Notes/Threat Landscape.md",
+    "Atomic Notes/Firewall.md",
+    "Atomic Notes/System Protection.md",
+    "Atomic Notes/Cybersecurity.md",
+    "Templates/Notes Template.md",
+    "Templates/Flashcard Template.md",
+    "Atomic Notes/SIEM.md",
+    "Full Notes/How to Read a Wireshark Log.md",
+    "Atomic Notes/TCP Flag Codes.md",
+    "Atomic Notes/Network Log Analysis.md",
+    "Atomic Notes/Network Hardening.md",
+    "Atomic Notes/TCP.md",
+    "Atomic Notes/OS Hardening.md",
+    "Full Notes/Reading tcpdump Logs.md",
+    "Atomic Notes/Simple Brute Force Attacks.md",
     "Full Notes",
     "Files/tcp-dump-output.png",
     "Files/Switch Diagram.drawio.svg",

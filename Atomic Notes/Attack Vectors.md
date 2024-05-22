@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[OWASP]] [[Attacks]] [[Attackers]]
+Tags: [[Cybersecurity]] [[OWASP]] [[Cyberattack]] [[Attackers]]
 # Attack Vectors
 
 Pathways attackers use to penetrate security defenses.

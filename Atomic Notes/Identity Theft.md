@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Cyberattack]]
 # Identity Theft
 
 The act of stealing personal information to commit fraud while impersonating a victim.

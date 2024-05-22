@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Cyberattack]]
 # Physical Attack
 
 Affects both digital and physical environments.

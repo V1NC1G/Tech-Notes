@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Phishing]] [[Social Engineering]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Phishing]] [[Social Engineering]]
 # Whaling
 
 A form of [[Spear Phishing|spear phishing]] that targets company executives.

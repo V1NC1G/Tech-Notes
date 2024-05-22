@@ -1,4 +1,4 @@
-Tags: [[Network]] [[Cybersecurity]] [[Attacks]] [[Network Attacks]]
+Tags: [[Network]] [[Cybersecurity]] [[Cyberattack]] [[Network Attacks]]
 # Passive Packet Sniffing
 
 A type of attack where data packets are read in transit.

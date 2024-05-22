@@ -1,7 +1,8 @@
-Tags: [[Cybersecurity]] [[Social Engineering]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Social Engineering]] [[Cyberattack]]
 # Phishing
 
-The use of digital communications to trick people into revealing sensitive data or deploying malicious software.
+> [!summary] 
+> The use of digital communications to trick people into revealing sensitive data or deploying malicious software.
 
 ## Common types of phishing attacks
 
@@ -14,7 +15,14 @@ The use of digital communications to trick people into revealing sensitive data 
 ---
 # References
 
+1. Google Cybersecurity Professional Certificate
+2. https://www.microsoft.com/en-us/security/business/security-101/what-is-a-cyberattack
+
 ---
 # Flashcards
 
-Flashcard Tags: 
+Flashcard Tags: #cybersecurity 
+
+An attack that uses digital communications to trick people into revealing sensitive data or deploying malicious software.
+?
+Phishing

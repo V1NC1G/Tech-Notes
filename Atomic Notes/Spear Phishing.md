@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Phishing]] [[Social Engineering]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Phishing]] [[Social Engineering]]
 # Spear Phishing
 
 An email attack targeted at a specific user or group of users.

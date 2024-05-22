@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[OWASP]] [[Attacks]] [[Attackers]]
+Tags: [[Cybersecurity]] [[OWASP]] [[Cyberattack]] [[Attackers]]
 # Attack Surface
 
 Refers to all potential vulnerabilities that a threat actor could exploit like [[Attack Vectors|attack vectors]]

@@ -1,4 +1,4 @@
-Tags: [[Network]] [[Cybersecurity]] [[Network Attacks]] [[Attacks]]
+Tags: [[Network]] [[Cybersecurity]] [[Network Attacks]] [[Cyberattack]]
 
 # Network Interception Attacks
 

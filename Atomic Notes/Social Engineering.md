@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Cyberattack]]
 # Social Engineering
 
 Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.

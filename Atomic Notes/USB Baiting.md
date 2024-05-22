@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Social Engineering]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Social Engineering]]
 # USB Baiting
 
 Strategically leaving a malware USB stick for an individual to find and install to infect a network.

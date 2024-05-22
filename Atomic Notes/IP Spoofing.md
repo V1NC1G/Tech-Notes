@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Network]] [[Network Attacks]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Network]] [[Network Attacks]] [[Cyberattack]]
 # IP Spoofing
 
 A network attack performed when an attacker changes the source [[IP]] of a [[Data Packet|data packet]] to impersonate an authorized system and gain access to a network.

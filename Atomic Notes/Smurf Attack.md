@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Network]] [[Network Attacks]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Network]] [[Network Attacks]] [[Cyberattack]]
 # Smurf Attack
 
 A network attack performed when an attacker sniffs an authorized user's IP address and floods it with packets.

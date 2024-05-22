@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Social Engineering]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Social Engineering]]
 # Watering Hole Attack
 
 Attacking a website frequently visited by a specific group of users.

@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Cyberattack]]
 # Password Attack
 
 An attempt to access password-secured devices, systems, networks, or data.

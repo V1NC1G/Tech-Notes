@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Social Engineering]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Social Engineering]]
 # Physical Social Engineering
 
 Impersonating an employee, customer, or vendor to obtain unauthorized access to a physical location.

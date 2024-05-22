@@ -1,9 +1,15 @@
 Tags: 
 # {{title}}
 
-> [!atom] 
+> [!summary] 
 > 
+
 
 ---
 # References
 
+
+___
+## Flashcards
+
+Flashcard Tags:

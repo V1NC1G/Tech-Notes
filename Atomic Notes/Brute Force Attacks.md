@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Cyberattack]]
 # Brute Force Attacks
 
 A brute force attack is a trial-and-error process of discovering private information.

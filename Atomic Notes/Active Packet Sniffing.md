@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Network]] [[Attacks]] [[Network Attacks]]
+Tags: [[Cybersecurity]] [[Network]] [[Cyberattack]] [[Network Attacks]]
 # Active Packet Sniffing
 
 A type of attack where data packets are manipulated in transit.

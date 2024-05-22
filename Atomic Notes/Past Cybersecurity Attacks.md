@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Attackers]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Attackers]]
 # Past Cybersecurity Attacks
 
 ## [[Malware]]

@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Phishing]] [[Social Engineering]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Phishing]] [[Social Engineering]]
 
 # Business Email Compromise
 

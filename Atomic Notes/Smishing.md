@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Phishing]] [[Social Engineering]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Phishing]] [[Social Engineering]]
 # Smishing
 
 Use of text messages to trick users to obtain sensitive information or impersonate a known source.

@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]]
+Tags: [[Cybersecurity]] [[Cyberattack]]
 # Adversarial Artificial Intelligence
 
 A technique that manipulates AI and ML to conduct attacks more efficiently.

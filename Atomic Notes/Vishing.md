@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attacks]] [[Phishing]] [[Social Engineering]]
+Tags: [[Cybersecurity]] [[Cyberattack]] [[Phishing]] [[Social Engineering]]
 # Vishing
 
 Use of electronic voice communication to obtain sensitive information or to impersonate a known source.
