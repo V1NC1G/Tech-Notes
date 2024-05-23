@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Full Notes/Reading Wireshark Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67c97ccb71639b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/Distributed Operating Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "337b4a1cfb42ea4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/Distributed Operating Systems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db2df5d5e3cf794a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Atomic Notes/Time-Sharing Operating Systems.md",
+                "file": "Atomic Notes/Servers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Distributed Operating Systems.md",
+                "file": "Atomic Notes/Servers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Distributed Operating Systems.md",
+                "file": "Atomic Notes/Servers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Distributed Operating Systems.md"
+                "file": "Atomic Notes/Servers.md"
               }
             }
           },
@@ -212,34 +175,36 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "337b4a1cfb42ea4e",
+  "active": "13b52c6bd77923f4",
   "lastOpenFiles": [
-    "Excalidraw/distributed-os.excalidraw.md",
+    "Atomic Notes/Advanced Persistent Threats.md",
+    "Atomic Notes/Servers.md",
+    "Atomic Notes/Insider Threats.md",
+    "Atomic Notes/Phishing.md",
+    "Atomic Notes/Social Engineering.md",
+    "Atomic Notes/Cybersecurity Threats.md",
+    "Atomic Notes/Ransomware.md",
+    "Atomic Notes/Malware.md",
+    "Atomic Notes/Cyberattack.md",
+    "Atomic Notes/Cybersecurity.md",
+    "Atomic Notes/Real-Time Operating Systems.md",
+    "Atomic Notes/Network Operating Systems.md",
+    "Files/real-time-os.png",
+    "Files/network-os.png",
     "Atomic Notes/Distributed Operating Systems.md",
     "Atomic Notes/Time-Sharing Operating Systems.md",
-    "Full Notes/Reading Wireshark Logs.md",
-    "Full Notes/Reading tcpdump Logs.md",
-    "Full Notes/How to Read a Wireshark Log.md",
-    "Atomic Notes/Batch Operating Systems.md",
     "Excalidraw/time-sharing-os.excalidraw.md",
+    "Excalidraw/distributed-os.excalidraw.md",
     "Excalidraw/batch-os.excalidraw.md",
     "Atomic Notes/Operating Systems.md",
-    "Atomic Notes/Personally Identifiable Information.md",
-    "Atomic Notes/Ransomware.md",
+    "Atomic Notes/Batch Operating Systems.md",
     "Atomic Notes/Security and Risk Management.md",
     "Atomic Notes/Botnet Attack.md",
     "Atomic Notes/Cross-site Scripting.md",
     "Atomic Notes/SQL Injection Attacks.md",
-    "Atomic Notes/Phishing.md",
     "Atomic Notes/DDoS Attack.md",
-    "Atomic Notes/Malware.md",
-    "Atomic Notes/Cyberattack.md",
     "Atomic Notes/Trojan Attack.md",
     "Atomic Notes/Adware.md",
-    "Atomic Notes/Threat Landscape.md",
-    "Atomic Notes/Firewall.md",
-    "Atomic Notes/System Protection.md",
-    "Atomic Notes/Cybersecurity.md",
     "Full Notes",
     "Files/tcp-dump-output.png",
     "Files/Switch Diagram.drawio.svg",

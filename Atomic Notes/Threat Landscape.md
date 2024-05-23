@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Threat]]
+Tags: [[Cybersecurity]] [[Cybersecurity Threats]]
 # Threat Landscape
 
 > [!summary] 

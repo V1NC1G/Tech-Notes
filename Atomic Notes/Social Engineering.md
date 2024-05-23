@@ -1,7 +1,8 @@
-Tags: [[Cybersecurity]] [[Cyberattack]]
+Tags: [[Cyberattack]]
 # Social Engineering
 
-Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.
+> [!summary] 
+> Social engineering is a manipulation technique that exploits human error to gain private information, access, or valuables.
 
 ## Social Engineering Attacks
 
@@ -14,27 +15,25 @@ Attacks related to social engineering are related to the [[Security and Risk Man
 
 ## Social Engineering Principles
 
-- Authority
-	- Impersonating individuals with power.
-- Intimidation
-	- Use of bullying tactics
-- Consensus/Social Proof
-	- Use of other's trust to pretend they are legitimate by telling "proofs".
-- Scarcity
-	- Tactic to imply that goods or services are in limited supply
-- Familiarity
-	- Create a fake emotional connection with users that can be exploited
-- Trust
-	- Use of emotional relationship with users that can be exploited over time to gain personal information
-- Urgency
-	- Persuasion to respond quickly and without questioning
+- **Authority**: Impersonating individuals with power.
+- **Intimidation**: Use of bullying tactics
+- **Consensus/Social Proof**: Use of other's trust to pretend they are legitimate by telling "proofs".
+- **Scarcity**: Tactic to imply that goods or services are in limited supply
+- **Familiarity**: Create a fake emotional connection with users that can be exploited
+- **Trust**: Use of emotional relationship with users that can be exploited over time to gain personal information
+- **Urgency**: Persuasion to respond quickly and without questioning
 
 ---
 # References
 
 1. Google Cybersecurity Professional Certificate
+2. Microsoft Cybersecurity Analyst Professional Certificate
 
 ---
 # Flashcards
 
-Flashcard Tags: 
+Flashcard Tags: #cybersecurity 
+
+A cybersecurity threat that exploits human error to gain private information, access, or valuables.
+?
+Social Engineering

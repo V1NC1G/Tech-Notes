@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Social Engineering]] [[Cyberattack]]
+Tags: [[Social Engineering]] [[Cyberattack]]
 # Phishing
 
 > [!summary] 

@@ -1,7 +1,8 @@
-Tags: [[Cybersecurity]] [[Attackers]] [[Threat]]
+Tags: [[Attackers]] [[Cybersecurity Threats]]
 # Insider Threats
 
-Insider threats abuse their authorized access to obtain data that may harm an organization.
+> [!summary] 
+> Insider threats abuse their authorized access to obtain data that may harm an organization.
 
 Intentions/Motivations include:
 - Sabotage
@@ -13,8 +14,13 @@ Intentions/Motivations include:
 # References
 
 1. Google Cybersecurity Professional Certificate
+2. Microsoft Cybersecurity Analyst Professional Certificate
 
 ---
 # Flashcards
 
-Flashcard Tags: 
+Flashcard Tags: #cybersecurity 
+
+People who abuse their authorized access to obtain data that may harm an organization.
+?
+Insider Threats

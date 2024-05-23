@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Threat]]
+Tags: [[Cybersecurity]] [[Cybersecurity Threats]]
 # Internal Threats
 
 An **internal threat** comes from current or former employees, external vendors, or trusted partners.

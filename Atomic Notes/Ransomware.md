@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Malware]] [[Cyberattack]]
+Tags: [[Malware]] [[Cyberattack]]
 # Ransomware
 
 > [!summary] 

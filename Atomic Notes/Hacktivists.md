@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Attackers]] [[Threat]]
+Tags: [[Cybersecurity]] [[Attackers]] [[Cybersecurity Threats]]
 # Hacktivists
 
 Threat actors motivated by a political agenda and abuse digital technology to accomplish their goals which include:
