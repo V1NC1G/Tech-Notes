@@ -5,7 +5,7 @@
     "flashcardHardText": "Hard",
     "flashcardTags": [
       "#cybersecurity",
-      ""
+      "#os"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -43,7 +43,7 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2024-05-22",
+  "buryDate": "2024-05-23",
   "buryList": [],
   "historyDeck": null
 }

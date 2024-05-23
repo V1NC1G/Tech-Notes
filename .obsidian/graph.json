@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "vulnerabili",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 11.2328767123288,
   "linkStrength": 0.65296803652968,
   "linkDistance": 386,
-  "scale": 1.0358563327078647,
+  "scale": 0.13640906438951333,
   "close": true
 }
