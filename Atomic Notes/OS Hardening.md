@@ -5,7 +5,7 @@ Practices performed to secure an OS.
 
 Some OS hardening tasks:
 - Performed at regular intervals
-	- [[Patch Updates]]
+	- [[Patches]]
 	- Hardware and Software Disposal
 	- Implementing a strong password policy
 	- Backups

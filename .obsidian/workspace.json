@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Servers.md",
+                "file": "Atomic Notes/Treating Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Servers.md",
+                "file": "Atomic Notes/Treating Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Servers.md",
+                "file": "Atomic Notes/Treating Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Servers.md"
+                "file": "Atomic Notes/Treating Vulnerabilities.md"
               }
             }
           },
@@ -177,8 +177,22 @@
   },
   "active": "13b52c6bd77923f4",
   "lastOpenFiles": [
-    "Atomic Notes/Advanced Persistent Threats.md",
+    "Atomic Notes/Vulnerability Verification.md",
+    "Atomic Notes/Treating Vulnerabilities.md",
+    "Atomic Notes/Penetration Testing.md",
+    "Atomic Notes/Network Testing.md",
+    "Atomic Notes/Vulnerability Management.md",
+    "Atomic Notes/Predictive Maintenance.md",
+    "Atomic Notes/Routine Maintenance.md",
+    "Atomic Notes/Corrective Maintenance.md",
+    "Atomic Notes/Maintenance.md",
+    "Atomic Notes/Patches.md",
+    "Atomic Notes/Time-Sharing Operating Systems.md",
+    "Atomic Notes/Network Operating Systems.md",
     "Atomic Notes/Servers.md",
+    "Atomic Notes/Database Servers.md",
+    "Atomic Notes/Web Servers.md",
+    "Atomic Notes/Advanced Persistent Threats.md",
     "Atomic Notes/Insider Threats.md",
     "Atomic Notes/Phishing.md",
     "Atomic Notes/Social Engineering.md",
@@ -188,23 +202,9 @@
     "Atomic Notes/Cyberattack.md",
     "Atomic Notes/Cybersecurity.md",
     "Atomic Notes/Real-Time Operating Systems.md",
-    "Atomic Notes/Network Operating Systems.md",
     "Files/real-time-os.png",
     "Files/network-os.png",
     "Atomic Notes/Distributed Operating Systems.md",
-    "Atomic Notes/Time-Sharing Operating Systems.md",
-    "Excalidraw/time-sharing-os.excalidraw.md",
-    "Excalidraw/distributed-os.excalidraw.md",
-    "Excalidraw/batch-os.excalidraw.md",
-    "Atomic Notes/Operating Systems.md",
-    "Atomic Notes/Batch Operating Systems.md",
-    "Atomic Notes/Security and Risk Management.md",
-    "Atomic Notes/Botnet Attack.md",
-    "Atomic Notes/Cross-site Scripting.md",
-    "Atomic Notes/SQL Injection Attacks.md",
-    "Atomic Notes/DDoS Attack.md",
-    "Atomic Notes/Trojan Attack.md",
-    "Atomic Notes/Adware.md",
     "Full Notes",
     "Files/tcp-dump-output.png",
     "Files/Switch Diagram.drawio.svg",

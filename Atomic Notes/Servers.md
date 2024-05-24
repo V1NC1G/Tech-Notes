@@ -1,4 +1,4 @@
-Tags: 
+Tags: [[Infrastructure]]
 # Servers
 
 > [!summary] 
