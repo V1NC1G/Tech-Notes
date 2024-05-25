@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Security Frameworks]]
+Tags: [[Cybersecurity]] [[Cybersecurity Frameworks]]
 # FedRAMP
 
 **The Federal Risk and Authorization Management Program**

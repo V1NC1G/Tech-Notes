@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Security Frameworks]]
+Tags: [[Cybersecurity]] [[Cybersecurity Frameworks]]
 # HITRUST
 
 **Health Information Trust Alliance**

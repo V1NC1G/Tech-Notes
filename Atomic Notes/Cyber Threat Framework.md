@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Security Frameworks]]
+Tags: [[Cybersecurity]] [[Cybersecurity Frameworks]]
 # Cyber Threat Framework
 
 Provides a common language for describing and communicating about cyber threat activity.

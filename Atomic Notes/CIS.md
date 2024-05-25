@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Security Frameworks]] [[Security Controls]]
+Tags: [[Cybersecurity]] [[Cybersecurity Frameworks]] [[Security Controls]]
 # CIS
 
 **Center for Internet Security**

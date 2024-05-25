@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Security Frameworks]]
+Tags: [[Cybersecurity]] [[Cybersecurity Frameworks]]
 # FERC-NERC
 
 **The Federal Energy Regulatory Commission - North American Electric Reliability Corporation**

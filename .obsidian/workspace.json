@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "1d51f87f4bfd36ca",
+        "id": "9225440ac68b86a9",
         "type": "tabs",
         "children": [
           {
-            "id": "13b52c6bd77923f4",
+            "id": "9287f07cf8a2b4e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atomic Notes/Treating Vulnerabilities.md",
+                "file": "Atomic Notes/Data Warehouse.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bac91a9d2d48992",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Atomic Notes/Time-Sharing Operating Systems.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prefix",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atomic Notes/Treating Vulnerabilities.md",
+                "file": "Atomic Notes/Time-Sharing Operating Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atomic Notes/Treating Vulnerabilities.md",
+                "file": "Atomic Notes/Time-Sharing Operating Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atomic Notes/Treating Vulnerabilities.md"
+                "file": "Atomic Notes/Time-Sharing Operating Systems.md"
               }
             }
           },
@@ -150,11 +163,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 263.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -165,46 +178,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "13b52c6bd77923f4",
+  "active": "3bac91a9d2d48992",
   "lastOpenFiles": [
-    "Atomic Notes/Vulnerability Verification.md",
+    "Atomic Notes/Data Warehouse.md",
+    "Excalidraw/data-warehouse-data-processing.excalidraw.md",
+    "Atomic Notes/Data Lake.md",
+    "Atomic Notes/Blob.md",
+    "Atomic Notes/Unstructured Data.md",
+    "Atomic Notes/Structured Data.md",
+    "Atomic Notes/Schema.md",
+    "Atomic Notes/Data.md",
+    "Atomic Notes/Azure Storage.md",
+    "Full Notes/Microsoft.md",
+    "Atomic Notes/Batch Operating Systems.md",
+    "Atomic Notes/Microsoft Dynamics.md",
+    "Full Notes/Cybersecurity Frameworks.md",
+    "Full Notes/Cybersecurity Best Practices.md",
+    "Atomic Notes/OWASP.md",
+    "Atomic Notes/Zero Trust Framework.md",
+    "Atomic Notes/Principle of least privilege.md",
+    "Atomic Notes/Business Software.md",
     "Atomic Notes/Treating Vulnerabilities.md",
+    "Atomic Notes/Vulnerability Verification.md",
     "Atomic Notes/Penetration Testing.md",
     "Atomic Notes/Network Testing.md",
     "Atomic Notes/Vulnerability Management.md",
     "Atomic Notes/Predictive Maintenance.md",
     "Atomic Notes/Routine Maintenance.md",
     "Atomic Notes/Corrective Maintenance.md",
-    "Atomic Notes/Maintenance.md",
-    "Atomic Notes/Patches.md",
-    "Atomic Notes/Time-Sharing Operating Systems.md",
-    "Atomic Notes/Network Operating Systems.md",
-    "Atomic Notes/Servers.md",
-    "Atomic Notes/Database Servers.md",
-    "Atomic Notes/Web Servers.md",
-    "Atomic Notes/Advanced Persistent Threats.md",
-    "Atomic Notes/Insider Threats.md",
-    "Atomic Notes/Phishing.md",
-    "Atomic Notes/Social Engineering.md",
-    "Atomic Notes/Cybersecurity Threats.md",
-    "Atomic Notes/Ransomware.md",
-    "Atomic Notes/Malware.md",
-    "Atomic Notes/Cyberattack.md",
-    "Atomic Notes/Cybersecurity.md",
-    "Atomic Notes/Real-Time Operating Systems.md",
     "Files/real-time-os.png",
     "Files/network-os.png",
-    "Atomic Notes/Distributed Operating Systems.md",
     "Full Notes",
     "Files/tcp-dump-output.png",
     "Files/Switch Diagram.drawio.svg",

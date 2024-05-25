@@ -1,7 +1,8 @@
-Tags: [[Cybersecurity]] [[OWASP]]
+Tags: [[OWASP]]
 # Principle of least privilege
 
-Making sure that users have the least amount of access required to perform their everyday task.
+> [!summary] 
+> The principle of making sure that users have the least amount of access required to perform their everyday task.
 
 This is to reduce the amount of damage a breach could cause.
 

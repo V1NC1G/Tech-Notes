@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Security Frameworks]]
+Tags: [[Cybersecurity]] [[Cybersecurity Frameworks]]
 # PCI DSS
 
 **Payment Card Industry Data Security Standard**

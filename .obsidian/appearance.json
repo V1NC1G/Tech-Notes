@@ -1,9 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "Prism",
-  "textFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono,Space Mono",
+  "interfaceFontFamily": "JetBrains Mono,Space Mono",
+  "monospaceFontFamily": "JetBrains Mono,Space Mono",
   "showViewHeader": true,
   "translucency": false,
   "theme": "moonstone"

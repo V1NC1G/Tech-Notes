@@ -2,7 +2,7 @@ Tags: [[Cybersecurity]]
 
 # Security Controls
 
-Safeguards designed to reduce specific security risks and is used with [[Security Frameworks|security frameworks]] to establish a strong security posture.
+Safeguards designed to reduce specific security risks and is used with [[Cybersecurity Frameworks|security frameworks]] to establish a strong security posture.
 
 ## Three common uses of security controls
 

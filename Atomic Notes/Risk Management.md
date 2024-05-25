@@ -6,7 +6,7 @@ The process of identifying, assessing, and controlling financial, legal, strateg
 
 Basically to protect an organization's assets.
 
-Additionally, organizations implement risk management processes based on widely accepted [[Security Frameworks]] such as [[NIST RMF]] and [[HITRUST]]
+Additionally, organizations implement risk management processes based on widely accepted [[Cybersecurity Frameworks]] such as [[NIST RMF]] and [[HITRUST]]
 
 ## Risk Management Strategies
 

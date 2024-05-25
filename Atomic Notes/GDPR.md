@@ -1,4 +1,4 @@
-Tags: [[Cybersecurity]] [[Security Frameworks]] [[Regulation]]
+Tags: [[Cybersecurity]] [[Cybersecurity Frameworks]] [[Regulation]]
 # GDPR
 
 **General Data Protection Regulation**
